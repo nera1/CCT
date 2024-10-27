@@ -4,14 +4,8 @@ Since 2024.10.26
 
 ## Language
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
-          style=flat
-          &logo=JS
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat
-          &logo=JS
-          &logoColor=white"/>
+<a href="*"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></a>
+<a href="*"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
 
 ## Summary
 
@@ -27,6 +21,7 @@ Since 2024.10.26
 
 <details>
   <summary>Programmers</summary>
+
   - 항목 1
   - 항목 2
   - 항목 3
@@ -35,6 +30,7 @@ Since 2024.10.26
 </details>
 <details>
   <summary>BJ</summary>
+
   - 항목 1
   - 항목 2
   - 항목 3
@@ -46,6 +42,7 @@ Since 2024.10.26
 
 <details>
   <summary>Programmers</summary>
+
   - 항목 1
   - 항목 2
   - 항목 3
@@ -54,6 +51,7 @@ Since 2024.10.26
 </details>
 <details>
   <summary>BJ</summary>
+          
   - 항목 1
   - 항목 2
   - 항목 3
@@ -65,6 +63,7 @@ Since 2024.10.26
 
 <details>
   <summary>Programmers</summary>
+
   - 항목 1
   - 항목 2
   - 항목 3
@@ -73,6 +72,7 @@ Since 2024.10.26
 </details>
 <details>
   <summary>BJ</summary>
+
   - 항목 1
   - 항목 2
   - 항목 3
