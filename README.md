@@ -11,9 +11,10 @@ Since 2024.10.26
 
 |    Category    | Solved |    Last    |
 | :------------: | :----: | :--------: |
-|    BFS/DFS     |   1    | 2024-10-27 |
+|    BFS/DFS     |   0    |            |
 | Implementation |   0    |            |
 |       DP       |   0    |            |
+|     Greedy     |   1    | 2024-10-28 |
 
 ## History
 
@@ -22,20 +23,10 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
-  - 항목 1
-  - 항목 2
-  - 항목 3
-  - 항목 4
-  - 항목 5
 </details>
 <details>
   <summary>BJ</summary>
 
-  - 항목 1
-  - 항목 2
-  - 항목 3
-  - 항목 4
-  - 항목 5
 </details>
 
 ### Implementation
@@ -43,20 +34,10 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
-  - 항목 1
-  - 항목 2
-  - 항목 3
-  - 항목 4
-  - 항목 5
 </details>
 <details>
   <summary>BJ</summary>
-          
-  - 항목 1
-  - 항목 2
-  - 항목 3
-  - 항목 4
-  - 항목 5
+
 </details>
 
 ### DP
@@ -64,18 +45,20 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
-  - 항목 1
-  - 항목 2
-  - 항목 3
-  - 항목 4
-  - 항목 5
 </details>
 <details>
   <summary>BJ</summary>
 
-  - 항목 1
-  - 항목 2
-  - 항목 3
-  - 항목 4
-  - 항목 5
+</details>
+
+### Greedy
+
+<details>
+  <summary>Programmers</summary>
+
+- [요격 시스템 Lv.2](./solved/1.md)
+</details>
+<details>
+  <summary>BJ</summary>
+
 </details>
