@@ -4,12 +4,12 @@
 
 ## Overview
 
-Language : JAVA
-Platform : [Github](https://www.github.com)
-Difficulty : Lv.2
-Algorithm : Array
-Taken : 1h
-Rate : 100%
+- Language : JAVA
+- Platform : [Github](https://www.github.com)
+- Difficulty : Lv.2
+- Algorithm : Array
+- Taken : 1h
+- Rate : 100%
 
 ## Solution
 
