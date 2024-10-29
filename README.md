@@ -12,7 +12,7 @@ Since 2024.10.26
 |    Category    | Solved |    Last    |
 | :------------: | :----: | :--------: |
 |    BFS/DFS     |   0    |            |
-| Implementation |   0    |            |
+| Implementation |   1    | 2024-10-29 |
 |       DP       |   0    |            |
 |     Greedy     |   1    | 2024-10-28 |
 
@@ -34,6 +34,7 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
+1. [개인정보 수집 유효기간 Lv.1](./solved/2.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -56,7 +57,7 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
-- [요격 시스템 Lv.2](./solved/1.md)
+1. [요격 시스템 Lv.2](./solved/1.md)
 </details>
 <details>
   <summary>BJ</summary>
