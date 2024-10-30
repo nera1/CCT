@@ -9,14 +9,14 @@ Since 2024.10.26
 
 ## Summary
 
-|    Category    | Solved |    Last    |
-| :------------: | :----: | :--------: |
-|    BFS/DFS     |   1    | 2024-10-30 |
-| Implementation |   2    | 2024-10-30 |
-|       DP       |   0    |            |
-|     Greedy     |   1    | 2024-10-28 |
-|  Brute Force   |   1    | 2024-10-29 |
-|  Two-Pointer   |   1    | 2024-10-29 |
+|                  Category                   | Solved |    Last    |
+| :-----------------------------------------: | :----: | :--------: |
+|           [BFS / DFS](#bfs--dfs)            |   1    | 2024-10-30 |
+|      [Implementation](#implementation)      |   2    | 2024-10-30 |
+| [Dynamic Programming](#dynamic-programming) |   0    |            |
+|              [Greedy](#greedy)              |   1    | 2024-10-28 |
+|         [Brute Force](#brute-force)         |   1    | 2024-10-29 |
+|         [Two-Pointer](#two-pointer)         |   1    | 2024-10-29 |
 
 ## History
 
@@ -45,7 +45,7 @@ Since 2024.10.26
 
 </details>
 
-### DP
+### Dynamic Programming
 
 <details>
   <summary>Programmers</summary>
