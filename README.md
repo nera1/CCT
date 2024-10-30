@@ -11,10 +11,12 @@ Since 2024.10.26
 
 |    Category    | Solved |    Last    |
 | :------------: | :----: | :--------: |
-|    BFS/DFS     |   0    |            |
-| Implementation |   1    | 2024-10-29 |
+|    BFS/DFS     |   1    | 2024-10-30 |
+| Implementation |   2    | 2024-10-30 |
 |       DP       |   0    |            |
 |     Greedy     |   1    | 2024-10-28 |
+|  Brute Force   |   1    | 2024-10-29 |
+|  Two-Pointer   |   1    | 2024-10-29 |
 
 ## History
 
@@ -23,6 +25,7 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
+1. [리코쳇 로봇 Lv.2](./solved/6.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -35,6 +38,7 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [개인정보 수집 유효기간 Lv.1](./solved/2.md)
+2. [과제 진행하기 Lv.2](./solved/5.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -58,6 +62,30 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [요격 시스템 Lv.2](./solved/1.md)
+</details>
+<details>
+  <summary>BJ</summary>
+
+</details>
+
+### Brute Force
+
+<details>
+  <summary>Programmers</summary>
+
+1. [광물 캐기 Lv.2](./solved/3.md)
+</details>
+<details>
+  <summary>BJ</summary>
+
+</details>
+
+### Two-Pointer
+
+<details>
+  <summary>Programmers</summary>
+
+1. [연속된 부분 수열의 합 Lv.2](./solved/4.md)
 </details>
 <details>
   <summary>BJ</summary>
