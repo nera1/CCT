@@ -1,4 +1,4 @@
-# FCT
+# CCT
 
 Since 2024.10.26
 
@@ -17,6 +17,7 @@ Since 2024.10.26
 |              [Greedy](#greedy)              |   1    | 2024-10-28 |
 |         [Brute Force](#brute-force)         |   1    | 2024-10-29 |
 |         [Two-Pointer](#two-pointer)         |   1    | 2024-10-29 |
+|               [Stack](#Stack)               |   1    | 2024-11-02 |
 
 ## History
 
@@ -26,6 +27,7 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [리코쳇 로봇 Lv.2](./solved/6.md)
+2. [숫자 변환하기 Lv.2](./solved/8.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -86,6 +88,18 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [연속된 부분 수열의 합 Lv.2](./solved/4.md)
+</details>
+<details>
+  <summary>BJ</summary>
+
+</details>
+
+### Stack
+
+<details>
+  <summary>Programmers</summary>
+
+1. [뒤에 있는 큰 수 찾기 Lv.2](./solved/7.md)
 </details>
 <details>
   <summary>BJ</summary>
