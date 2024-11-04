@@ -11,13 +11,13 @@ Since 2024.10.26
 
 |                  Category                   | Solved |    Last    |
 | :-----------------------------------------: | :----: | :--------: |
-|           [BFS / DFS](#bfs--dfs)            |   2    | 2024-10-31 |
+|           [BFS / DFS](#bfs--dfs)            |   3    | 2024-10-31 |
 |      [Implementation](#implementation)      |   2    | 2024-10-30 |
 | [Dynamic Programming](#dynamic-programming) |   0    |            |
-|              [Greedy](#greedy)              |   1    | 2024-10-28 |
-|         [Brute Force](#brute-force)         |   1    | 2024-10-29 |
+|              [Greedy](#greedy)              |   2    | 2024-11-04 |
+|         [Brute Force](#brute-force)         |   2    | 2024-11-04 |
 |         [Two-Pointer](#two-pointer)         |   1    | 2024-10-29 |
-|               [Stack](#Stack)               |   1    | 2024-11-02 |
+|               [Stack](#Stack)               |   2    | 2024-11-03 |
 
 ## History
 
@@ -65,6 +65,7 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [요격 시스템 Lv.2](./solved/1.md)
+2. [디펜스 게임 Lv.2](./solved/12.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -77,6 +78,7 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [광물 캐기 Lv.2](./solved/3.md)
+2. [이모티콘 할인행사 Lv.2](./solved/11.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -101,6 +103,7 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [뒤에 있는 큰 수 찾기 Lv.2](./solved/7.md)
+2. [택배 배달과 수거하기 Lv.2](./solved/10.md)
 </details>
 <details>
   <summary>BJ</summary>
