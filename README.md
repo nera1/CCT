@@ -16,7 +16,7 @@ Since 2024.10.26
 | [Dynamic Programming](#dynamic-programming) |   0    |            |
 |              [Greedy](#greedy)              |   2    | 2024-11-04 |
 |         [Brute Force](#brute-force)         |   2    | 2024-11-04 |
-|         [Two-Pointer](#two-pointer)         |   1    | 2024-10-29 |
+|         [Two-Pointer](#two-pointer)         |   2    | 2024-11-05 |
 |               [Stack](#Stack)               |   2    | 2024-11-03 |
 
 ## History
@@ -91,6 +91,7 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [연속된 부분 수열의 합 Lv.2](./solved/4.md)
+2. [두 큐 합 같게 만들기 Lv.2](./solved/13.md)
 </details>
 <details>
   <summary>BJ</summary>
