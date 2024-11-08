@@ -1,4 +1,4 @@
-<a href="*"><img src="./banner.jpg" style="border-radius:8px"></a>
+<a href="*"><img src="./banner.jpg"></a>
 
 # CCT
 
