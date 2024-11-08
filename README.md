@@ -56,11 +56,11 @@ Since 2024.10.26
 <details>
   <summary>Programmers</summary>
 
+1. [배달 Lv.2](./solved/15.md)
 </details>
 <details>
   <summary>BJ</summary>
 
-1. [배달 Lv.2](./solved/15.md)
 </details>
 
 ### Greedy
