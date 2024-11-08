@@ -1,3 +1,5 @@
+<a href="*"><img src="./banner.jpg" style="border-radius:8px"></a>
+
 # CCT
 
 Since 2024.10.26
@@ -12,8 +14,8 @@ Since 2024.10.26
 |                  Category                   | Solved |    Last    |
 | :-----------------------------------------: | :----: | :--------: |
 |           [BFS / DFS](#bfs--dfs)            |   3    | 2024-10-31 |
-|      [Implementation](#implementation)      |   2    | 2024-10-30 |
-| [Dynamic Programming](#dynamic-programming) |   0    |            |
+|      [Implementation](#implementation)      |   3    | 2024-11-08 |
+| [Dynamic Programming](#dynamic-programming) |   1    | 2024-11-08 |
 |              [Greedy](#greedy)              |   2    | 2024-11-04 |
 |         [Brute Force](#brute-force)         |   2    | 2024-11-04 |
 |         [Two-Pointer](#two-pointer)         |   2    | 2024-11-05 |
@@ -42,6 +44,7 @@ Since 2024.10.26
 
 1. [개인정보 수집 유효기간 Lv.1](./solved/2.md)
 2. [과제 진행하기 Lv.2](./solved/5.md)
+3. [행렬 테두리 회전하기 Lv.2](./solved/14.md)
 </details>
 <details>
   <summary>BJ</summary>
@@ -57,6 +60,7 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
+1. [배달 Lv.2](./solved/15.md)
 </details>
 
 ### Greedy
