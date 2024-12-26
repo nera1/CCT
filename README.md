@@ -20,6 +20,7 @@ Since 2024.10.26
 |         [Brute Force](#brute-force)         |   2    | 2024-11-04 |
 |         [Two-Pointer](#two-pointer)         |   2    | 2024-11-05 |
 |               [Stack](#Stack)               |   2    | 2024-11-03 |
+|            [Sweeping](#sweeping)            |   1    | 2024-12-26 |
 
 ## History
 
@@ -109,6 +110,19 @@ Since 2024.10.26
 
 1. [뒤에 있는 큰 수 찾기 Lv.2](./solved/7.md)
 2. [택배 배달과 수거하기 Lv.2](./solved/10.md)
+</details>
+<details>
+  <summary>BJ</summary>
+
+</details>
+
+### Sweeping
+
+<details>
+  <summary>Programmers</summary>
+
+1. [인사 고과 Lv.3](./solved/16.md)
+
 </details>
 <details>
   <summary>BJ</summary>
