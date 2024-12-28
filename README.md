@@ -13,7 +13,7 @@ Since 2024.10.26
 
 |                  Category                   | Solved |    Last    |
 | :-----------------------------------------: | :----: | :--------: |
-|           [BFS / DFS](#bfs--dfs)            |   3    | 2024-10-31 |
+|           [BFS / DFS](#bfs--dfs)            |   4    | 2024-12-27 |
 |      [Implementation](#implementation)      |   3    | 2024-11-08 |
 | [Dynamic Programming](#dynamic-programming) |   1    | 2024-11-08 |
 |              [Greedy](#greedy)              |   2    | 2024-11-04 |
@@ -32,6 +32,7 @@ Since 2024.10.26
 1. [리코쳇 로봇 Lv.2](./solved/6.md)
 2. [숫자 변환하기 Lv.2](./solved/8.md)
 3. [혼자서 하는 틱택토 Lv.2](./solved/9.md)
+4. [부대 복귀 Lv.3](./solved/17.md)
 </details>
 <details>
   <summary>BJ</summary>
