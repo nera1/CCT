@@ -15,7 +15,7 @@ Since 2024.10.26
 | :-----------------------------------------: | :----: | :--------: |
 |           [BFS / DFS](#bfs--dfs)            |   4    | 2024-12-27 |
 |      [Implementation](#implementation)      |   3    | 2024-11-08 |
-| [Dynamic Programming](#dynamic-programming) |   2    | 2024-12-29 |
+| [Dynamic Programming](#dynamic-programming) |   3    | 2024-12-30 |
 |              [Greedy](#greedy)              |   2    | 2024-11-04 |
 |         [Brute Force](#brute-force)         |   2    | 2024-11-04 |
 |         [Two-Pointer](#two-pointer)         |   2    | 2024-11-05 |
@@ -59,7 +59,8 @@ Since 2024.10.26
   <summary>Programmers</summary>
 
 1. [배달 Lv.2](./solved/15.md)
-1. [가장 큰 정사각형 찾기 Lv.2](./solved/18.md)
+2. [가장 큰 정사각형 찾기 Lv.2](./solved/18.md)
+3. [스티커 모으기(2) Lv.3](./solved/19.md)
 </details>
 <details>
   <summary>BJ</summary>
