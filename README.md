@@ -21,6 +21,7 @@ Since 2024.10.26
 |         [Two-Pointer](#two-pointer)         |   2    | 2024-11-05 |
 |               [Stack](#Stack)               |   2    | 2024-11-03 |
 |            [Sweeping](#sweeping)            |   1    | 2024-12-26 |
+|          [Simulation](#simulation)          |   1    | 2025-01-02 |
 
 ## History
 
@@ -132,4 +133,16 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
+</details>
+
+### Simulation
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+1. [빗물 G5](./solved/22.md)
 </details>
