@@ -16,7 +16,7 @@ Since 2024.10.26
 |           [BFS / DFS](#bfs--dfs)            |   4    | 2024-12-27 |
 |      [Implementation](#implementation)      |   3    | 2024-11-08 |
 | [Dynamic Programming](#dynamic-programming) |   3    | 2024-12-30 |
-|              [Greedy](#greedy)              |   3    | 2024-12-31 |
+|              [Greedy](#greedy)              |   4    | 2025-01-02 |
 |         [Brute Force](#brute-force)         |   2    | 2024-11-04 |
 |         [Two-Pointer](#two-pointer)         |   2    | 2024-11-05 |
 |               [Stack](#Stack)               |   2    | 2024-11-03 |
@@ -75,6 +75,7 @@ Since 2024.10.26
 1. [요격 시스템 Lv.2](./solved/1.md)
 2. [디펜스 게임 Lv.2](./solved/12.md)
 3. [기지국 설치 Lv.3](./solved/20.md)
+4. [숫자 게임 Lv.3](./solved/21.md)
 </details>
 <details>
   <summary>BJ</summary>
