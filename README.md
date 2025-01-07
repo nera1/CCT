@@ -22,6 +22,7 @@ Since 2024.10.26
 |               [Stack](#Stack)               |   2    | 2024-11-03 |
 |            [Sweeping](#sweeping)            |   1    | 2024-12-26 |
 |          [Simulation](#simulation)          |   1    | 2025-01-02 |
+|      [Sliding Window](#sliding-window)      |   2    | 2025-01-07 |
 
 ## History
 
@@ -147,4 +148,17 @@ Since 2024.10.26
   <summary>BJ</summary>
 
 1. [빗물 G5](./solved/22.md)
+</details>
+
+### Sliding Window
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+1. [블로그 S3](./solved/24.md)
+2. [회전초밥 G4](./solved/25.md)
 </details>
