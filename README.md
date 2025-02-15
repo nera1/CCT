@@ -36,22 +36,22 @@ Since 2024.10.26
 
 |                         Name                          | Level | Stack |    Last    |    Next    |
 | :---------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-|     [스택](https://www.acmicpc.net/problem/10828)     |       |  ☑️   | 2025-02-07 |            |
-|  [단어 뒤집기](https://www.acmicpc.net/problem/9093)  |       |  ☑️   | 2025-02-07 |            |
-|     [괄호](https://www.acmicpc.net/problem/9012)      |       |  ☑️   | 2025-02-07 |            |
-|    [에디터](https://www.acmicpc.net/problem/1406)     |       |  ✅   | 2025-02-07 | 2025-02-14 |
-|      [큐](https://www.acmicpc.net/problem/10845)      |       |  ☑️   | 2025-02-07 |            |
-| [요세푸스 문제](https://www.acmicpc.net/problem/1158) |       |  ☑️   | 2025-02-07 |            |
-|      [덱](https://www.acmicpc.net/problem/10866)      |       |  ☑️   | 2025-02-07 |            |
+|     [스택](https://www.acmicpc.net/problem/10828)     |  S4   |  ☑️   | 2025-02-07 |            |
+|  [단어 뒤집기](https://www.acmicpc.net/problem/9093)  |  B1   |  ☑️   | 2025-02-07 |            |
+|     [괄호](https://www.acmicpc.net/problem/9012)      |  S4   |  ☑️   | 2025-02-07 |            |
+|    [에디터](https://www.acmicpc.net/problem/1406)     |  S2   |  ✅   | 2025-02-07 | 2025-02-14 |
+|      [큐](https://www.acmicpc.net/problem/10845)      |  S4   |  ☑️   | 2025-02-07 |            |
+| [요세푸스 문제](https://www.acmicpc.net/problem/1158) |  S4   |  ☑️   | 2025-02-07 |            |
+|      [덱](https://www.acmicpc.net/problem/10866)      |  S4   |  ☑️   | 2025-02-07 |            |
 
 ### Datastructure 2
 
 |                         Name                          | Level | Stack | Last | Next |
 | :---------------------------------------------------: | :---: | :---: | :--: | :--: |
-| [단어 뒤집기2](https://www.acmicpc.net/problem/17413) |       |       |      |      |
-|   [쇠막대기](https://www.acmicpc.net/problem/10799)   |       |       |      |      |
-|    [오큰수](https://www.acmicpc.net/problem/17298)    |       |       |      |      |
-|   [오등큰수](https://www.acmicpc.net/problem/17299)   |       |       |      |      |
+| [단어 뒤집기2](https://www.acmicpc.net/problem/17413) |  S3   |       |      |      |
+|   [쇠막대기](https://www.acmicpc.net/problem/10799)   |  S2   |       |      |      |
+|    [오큰수](https://www.acmicpc.net/problem/17298)    |  G4   |       |      |      |
+|   [오등큰수](https://www.acmicpc.net/problem/17299)   |  G3   |       |      |      |
 
 ## History
 
@@ -65,15 +65,15 @@ Since 2024.10.26
 
 |                           Name                            | Level | Stack |    Last    |    Next    |
 | :-------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-|    [유기농 배추](https://www.acmicpc.net/problem/1012)    |       |  ☑️   | 2025-02-15 |            |
-| [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |       |  ☑️   | 2025-02-15 |            |
-|     [안전 영역](https://www.acmicpc.net/problem/2468)     |       |  ☑️   | 2025-02-15 |            |
-|     [미로 탐색](https://www.acmicpc.net/problem/2178)     |       |  ☑️   | 2025-02-15 |            |
-|  [단지번호붙이기](https://www.acmicpc.net/problem/2667)   |       |  ☑️   | 2025-02-15 |            |
-|     [숨바꼭질](https://www.acmicpc.net/problem/1697)      |       |  ✅   | 2025-02-15 | 2025-02-18 |
-|     [적록색약](https://www.acmicpc.net/problem/10026)     |       |  ☑️   | 2025-02-15 |            |
-|      [토마토](https://www.acmicpc.net/problem/7576)       |       |  ☑️   | 2025-02-15 |            |
-| [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |       |  ☑️   | 2025-02-15 |            |
+|    [유기농 배추](https://www.acmicpc.net/problem/1012)    |  S2   |  ☑️   | 2025-02-15 |            |
+| [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |  S2   |  ☑️   | 2025-02-15 |            |
+|     [안전 영역](https://www.acmicpc.net/problem/2468)     |  S1   |  ☑️   | 2025-02-15 |            |
+|     [미로 탐색](https://www.acmicpc.net/problem/2178)     |  S1   |  ☑️   | 2025-02-15 |            |
+|  [단지번호붙이기](https://www.acmicpc.net/problem/2667)   |  S1   |  ☑️   | 2025-02-15 |            |
+|     [숨바꼭질](https://www.acmicpc.net/problem/1697)      |  S1   |  ✅   | 2025-02-15 | 2025-02-18 |
+|     [적록색약](https://www.acmicpc.net/problem/10026)     |  G5   |  ☑️   | 2025-02-15 |            |
+|      [토마토](https://www.acmicpc.net/problem/7576)       |  G5   |  ☑️   | 2025-02-15 |            |
+| [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  S2   |  ☑️   | 2025-02-15 |            |
 
 </details>
 
