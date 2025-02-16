@@ -74,6 +74,9 @@ Since 2024.10.26
 |     [적록색약](https://www.acmicpc.net/problem/10026)     |  G5   |  ☑️   | 2025-02-15 |            |
 |      [토마토](https://www.acmicpc.net/problem/7576)       |  G5   |  ☑️   | 2025-02-15 |            |
 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  S2   |  ☑️   | 2025-02-15 |            |
+|      [알파벳](https://www.acmicpc.net/problem/1987)       |  G4   |  ☑️   | 2025-02-16 |            |
+|   [나이트의 이동](https://www.acmicpc.net/problem/7562)   |  S1   |  ☑️   | 2025-02-16 |            |
+|    [영역 구하기](https://www.acmicpc.net/problem/2583)    |  S1   |  ☑️   | 2025-02-16 |            |
 
 </details>
 
