@@ -46,12 +46,12 @@ Since 2024.10.26
 
 ### Datastructure 2
 
-|                         Name                          | Level | Stack | Last | Next |
-| :---------------------------------------------------: | :---: | :---: | :--: | :--: |
-| [단어 뒤집기2](https://www.acmicpc.net/problem/17413) |  S3   |       |      |      |
-|   [쇠막대기](https://www.acmicpc.net/problem/10799)   |  S2   |       |      |      |
-|    [오큰수](https://www.acmicpc.net/problem/17298)    |  G4   |       |      |      |
-|   [오등큰수](https://www.acmicpc.net/problem/17299)   |  G3   |       |      |      |
+|                         Name                          | Level | Stack |    Last    | Next |
+| :---------------------------------------------------: | :---: | :---: | :--------: | :--: |
+| [단어 뒤집기2](https://www.acmicpc.net/problem/17413) |  S3   |  ☑️   | 2025-02-17 |      |
+|   [쇠막대기](https://www.acmicpc.net/problem/10799)   |  S2   |       |            |      |
+|    [오큰수](https://www.acmicpc.net/problem/17298)    |  G4   |       |            |      |
+|   [오등큰수](https://www.acmicpc.net/problem/17299)   |  G3   |       |            |      |
 
 ## History
 
@@ -77,6 +77,8 @@ Since 2024.10.26
 |      [알파벳](https://www.acmicpc.net/problem/1987)       |  G4   |  ☑️   | 2025-02-16 |            |
 |   [나이트의 이동](https://www.acmicpc.net/problem/7562)   |  S1   |  ☑️   | 2025-02-16 |            |
 |    [영역 구하기](https://www.acmicpc.net/problem/2583)    |  S1   |  ☑️   | 2025-02-16 |            |
+|     [섬의 개수](https://www.acmicpc.net/problem/4963)     |  S2   |  ☑️   | 2025-02-17 |            |
+|      [A → B](https://www.acmicpc.net/problem/16953)       |  S2   |  ☑️   | 2025-02-17 |            |
 
 </details>
 
