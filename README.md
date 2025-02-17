@@ -49,7 +49,7 @@ Since 2024.10.26
 |                         Name                          | Level | Stack |    Last    | Next |
 | :---------------------------------------------------: | :---: | :---: | :--------: | :--: |
 | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) |  S3   |  ☑️   | 2025-02-17 |      |
-|   [쇠막대기](https://www.acmicpc.net/problem/10799)   |  S2   |       |            |      |
+|   [쇠막대기](https://www.acmicpc.net/problem/10799)   |  S2   |  ☑️   | 2025-02-17 |      |
 |    [오큰수](https://www.acmicpc.net/problem/17298)    |  G4   |       |            |      |
 |   [오등큰수](https://www.acmicpc.net/problem/17299)   |  G3   |       |            |      |
 
