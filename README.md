@@ -79,8 +79,8 @@ Since 2024.10.26
 |    [영역 구하기](https://www.acmicpc.net/problem/2583)    |  S1   |  ☑️   | 2025-02-16 |            |
 |     [섬의 개수](https://www.acmicpc.net/problem/4963)     |  S2   |  ☑️   | 2025-02-17 |            |
 |      [A → B](https://www.acmicpc.net/problem/16953)       |  S2   |  ☑️   | 2025-02-17 |            |
-|    [이분 그래프](https://www.acmicpc.net/problem/1707)    |  G4   |  ❌   | 2025-02-18 |            |
-|      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-18 |            |
+|    [이분 그래프](https://www.acmicpc.net/problem/1707)    |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
+|      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
 
 </details>
 
