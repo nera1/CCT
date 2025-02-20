@@ -81,6 +81,10 @@ Since 2024.10.26
 |      [A → B](https://www.acmicpc.net/problem/16953)       |  S2   |  ☑️   | 2025-02-17 |            |
 |    [이분 그래프](https://www.acmicpc.net/problem/1707)    |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
 |      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
+|      [토마토](https://www.acmicpc.net/problem/7569)       |  G5   |  ☑️   | 2025-02-19 |            |
+|     [촌수계산](https://www.acmicpc.net/problem/2644)      |  S2   |  ✅   | 2025-02-19 | 2025-02-22 |
+|       [빙산](https://www.acmicpc.net/problem/2573)        |  G4   |  ☑️   | 2025-02-19 |            |
+|      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-19 | 2025-02-22 |
 
 </details>
 
