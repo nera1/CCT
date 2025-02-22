@@ -84,7 +84,9 @@ Since 2024.10.26
 |      [토마토](https://www.acmicpc.net/problem/7569)       |  G5   |  ☑️   | 2025-02-19 |            |
 |     [촌수계산](https://www.acmicpc.net/problem/2644)      |  S2   |  ✅   | 2025-02-19 | 2025-02-22 |
 |       [빙산](https://www.acmicpc.net/problem/2573)        |  G4   |  ☑️   | 2025-02-19 |            |
-|      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-19 | 2025-02-22 |
+|    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  G4   |  ❌   | 2025-02-19 | 2025-02-22 |
+|     [알고스팟](https://www.acmicpc.net/problem/1261)      |  G4   |  ✅   | 2025-02-22 | 2025-02-25 |
+|    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  G2   |  ☑️   | 2025-02-22 |            |
 
 </details>
 
