@@ -51,7 +51,24 @@ Since 2024.10.26
 | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) |  S3   |  ☑️   | 2025-02-17 |      |
 |   [쇠막대기](https://www.acmicpc.net/problem/10799)   |  S2   |  ❌   | 2025-02-18 |      |
 |    [오큰수](https://www.acmicpc.net/problem/17298)    |  G4   |  ☑️   | 2025-02-18 |      |
-|   [오등큰수](https://www.acmicpc.net/problem/17299)   |  G3   |       |            |      |
+|   [오등큰수](https://www.acmicpc.net/problem/17299)   |  G3   |  ☑️   | 2025-02-23 |      |
+
+### Datastructure 3
+
+|                         Name                         | Level | Stack | Last | Next |
+| :--------------------------------------------------: | :---: | :---: | :--: | :--: |
+| [후위 표기식2](https://www.acmicpc.net/problem/1935) |  S3   |       |      |      |
+| [후위 표기식](https://www.acmicpc.net/problem/1918)  |  G2   |       |      |      |
+| [접미사 배열](https://www.acmicpc.net/problem/11656) |  S4   |       |      |      |
+
+### Mathematics 1
+
+|                           Name                           | Level | Stack | Last | Next |
+| :------------------------------------------------------: | :---: | :---: | :--: | :--: |
+| [골드바흐의 추측](https://www.acmicpc.net/problem/6588)  |  S1   |       |      |      |
+|   [숨바꼭질 6](https://www.acmicpc.net/problem/17087)    |  S2   |       |      |      |
+|      [-2진수](https://www.acmicpc.net/problem/2089)      |  S2   |       |      |      |
+| [골드바흐 파티션](https://www.acmicpc.net/problem/17103) |  S2   |       |      |      |
 
 ## History
 
