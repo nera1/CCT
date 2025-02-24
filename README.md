@@ -104,6 +104,8 @@ Since 2024.10.26
 |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  G4   |  ❌   | 2025-02-19 | 2025-02-22 |
 |     [알고스팟](https://www.acmicpc.net/problem/1261)      |  G4   |  ✅   | 2025-02-22 | 2025-02-25 |
 |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  G2   |  ☑️   | 2025-02-22 |            |
+|      [ABCDE](https://www.acmicpc.net/problem/13023)       |  G5   |  ❌   | 2025-02-24 | 2025-02-27 |
+|    [인구 이동](https://www.acmicpc.net/problem/16234)     |  G4   |  ❌   | 2025-02-24 | 2025-02-27 |
 
 </details>
 
