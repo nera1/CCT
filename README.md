@@ -156,12 +156,6 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                        Name                         | Level | Stack |    Last    |    Next    |
-| :-------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-| [나무 자르기](https://www.acmicpc.net/problem/2805) |  S2   |  ☑️   | 2025-02-25 |            |
-| [랜선 자르기](https://www.acmicpc.net/problem/1654) |  S2   |  ✅   | 2025-02-25 | 2025-02-28 |
-|    [게임](https://www.acmicpc.net/problem/1654)     |  S3   |  ✅   | 2025-02-25 | 2025-02-28 |
-
 </details>
 
 ### Stack
@@ -202,5 +196,24 @@ Since 2024.10.26
 </details>
 <details>
   <summary>BJ</summary>
+
+</details>
+
+### Binary Search
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                        Name                         | Level | Stack |    Last    |    Next    |
+| :-------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+| [나무 자르기](https://www.acmicpc.net/problem/2805) |  S2   |  ☑️   | 2025-02-25 |            |
+| [랜선 자르기](https://www.acmicpc.net/problem/1654) |  S2   |  ✅   | 2025-02-25 | 2025-02-28 |
+|    [게임](https://www.acmicpc.net/problem/1654)     |  S3   |  ✅   | 2025-02-25 | 2025-02-28 |
+|    [예산](https://www.acmicpc.net/problem/2512)     |  S2   |  ☑️   | 2025-02-26 |            |
+| [공유기 설치](https://www.acmicpc.net/problem/2110) |  G4   |  ✅   | 2025-02-26 | 2025-03-01 |
 
 </details>
