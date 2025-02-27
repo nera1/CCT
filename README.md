@@ -215,5 +215,6 @@ Since 2024.10.26
 |    [게임](https://www.acmicpc.net/problem/1654)     |  S3   |  ✅   | 2025-02-25 | 2025-02-28 |
 |    [예산](https://www.acmicpc.net/problem/2512)     |  S2   |  ☑️   | 2025-02-26 |            |
 | [공유기 설치](https://www.acmicpc.net/problem/2110) |  G4   |  ✅   | 2025-02-26 | 2025-03-01 |
+|    [용액](https://www.acmicpc.net/problem/2467)     |  G5   |  ❌   | 2025-02-27 | 2025-03-02 |
 
 </details>
