@@ -39,7 +39,7 @@ Since 2024.10.26
 |     [스택](https://www.acmicpc.net/problem/10828)     |  S4   |  ☑️   | 2025-02-07 |            |
 |  [단어 뒤집기](https://www.acmicpc.net/problem/9093)  |  B1   |  ☑️   | 2025-02-07 |            |
 |     [괄호](https://www.acmicpc.net/problem/9012)      |  S4   |  ☑️   | 2025-02-07 |            |
-|    [에디터](https://www.acmicpc.net/problem/1406)     |  S2   |  ✅   | 2025-02-07 | 2025-02-14 |
+|    [에디터](https://www.acmicpc.net/problem/1406)     |  S2   | ✅✅  | 2025-03-02 | 2025-03-09 |
 |      [큐](https://www.acmicpc.net/problem/10845)      |  S4   |  ☑️   | 2025-02-07 |            |
 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |  S4   |  ☑️   | 2025-02-07 |            |
 |      [덱](https://www.acmicpc.net/problem/10866)      |  S4   |  ☑️   | 2025-02-07 |            |
@@ -218,5 +218,7 @@ Since 2024.10.26
 |    [용액](https://www.acmicpc.net/problem/2467)     |  G5   |  ❌   | 2025-02-27 | 2025-03-02 |
 |  [중량제한](https://www.acmicpc.net/problem/1939)   |  G3   |  ✅   | 2025-02-28 | 2025-03-03 |
 |    [좋다](https://www.acmicpc.net/problem/1253)     |  G4   |  ❌   | 2025-02-28 | 2025-03-03 |
+|   [세 용액](https://www.acmicpc.net/problem/2473)   |  G3   |  ✅   | 2025-03-01 | 2025-03-04 |
+|  [K번째 수](https://www.acmicpc.net/problem/1300)   |  G1   |  ❌   | 2025-03-01 | 2025-03-04 |
 
 </details>
