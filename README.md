@@ -216,8 +216,8 @@ Since 2024.10.26
 |             [예산](https://www.acmicpc.net/problem/2512)              |  S2   |  ☑️   | 2025-02-26 |            |
 |          [공유기 설치](https://www.acmicpc.net/problem/2110)          |  G4   |  ✅   | 2025-02-26 | 2025-03-01 |
 |             [용액](https://www.acmicpc.net/problem/2467)              |  G5   |  ❌   | 2025-02-27 | 2025-03-02 |
-|           [중량제한](https://www.acmicpc.net/problem/1939)            |  G3   |  ✅   | 2025-02-28 | 2025-03-03 |
-|             [좋다](https://www.acmicpc.net/problem/1253)              |  G4   |  ❌   | 2025-02-28 | 2025-03-03 |
+|           [중량제한](https://www.acmicpc.net/problem/1939)            |  G3   | ✅✅  | 2025-03-03 | 2025-03-10 |
+|             [좋다](https://www.acmicpc.net/problem/1253)              |  G4   | ❌✅  | 2025-02-03 | 2025-03-10 |
 |            [세 용액](https://www.acmicpc.net/problem/2473)            |  G3   |  ✅   | 2025-03-01 | 2025-03-04 |
 |           [K번째 수](https://www.acmicpc.net/problem/1300)            |  G1   |  ❌   | 2025-03-01 | 2025-03-04 |
 | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |  G2   |  ❌   | 2025-03-02 | 2025-03-05 |
