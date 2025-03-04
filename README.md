@@ -221,5 +221,6 @@ Since 2024.10.26
 |            [세 용액](https://www.acmicpc.net/problem/2473)            |  G3   |  ✅   | 2025-03-01 | 2025-03-04 |
 |           [K번째 수](https://www.acmicpc.net/problem/1300)            |  G1   |  ❌   | 2025-03-01 | 2025-03-04 |
 | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |  G2   |  ❌   | 2025-03-02 | 2025-03-05 |
+|         [두 배열의 합](https://www.acmicpc.net/problem/2143)          |  G3   |  ✅   | 2025-03-04 | 2025-03-07 |
 
 </details>
