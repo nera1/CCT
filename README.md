@@ -223,7 +223,7 @@ Since 2024.10.26
 | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |  G2   |  ❌   | 2025-03-02 | 2025-03-05 |
 |         [두 배열의 합](https://www.acmicpc.net/problem/2143)          |  G3   |  ✅   | 2025-03-04 | 2025-03-07 |
 |           [모자이크](https://www.acmicpc.net/problem/2539)            |  G4   |  ☑️   | 2025-03-05 |            |
-|           [입국심사](https://www.acmicpc.net/problem/3079)            |  G5   |  ✅   | 2025-03-05 | 2025-03-08 |
+|           [입국심사](https://www.acmicpc.net/problem/3079)            |  G5   | ✅☑️  | 2025-03-08 |            |
 |        [케이크 자르기](https://www.acmicpc.net/problem/17179)         |  G4   |  ❌   | 2025-03-06 | 2025-03-09 |
 |        [창영이와 퇴근](https://www.acmicpc.net/problem/22116)         |  G4   |  ☑️   | 2025-03-06 |            |
 |       [블랙 프라이데이](https://www.acmicpc.net/problem/18114)        |  G5   |  ❌   | 2025-03-07 | 2025-03-10 |
