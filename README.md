@@ -228,5 +228,6 @@ Since 2024.10.26
 |        [창영이와 퇴근](https://www.acmicpc.net/problem/22116)         |  G4   |  ☑️   | 2025-03-06 |            |
 |       [블랙 프라이데이](https://www.acmicpc.net/problem/18114)        |  G5   |  ❌   | 2025-03-07 | 2025-03-10 |
 |        [색종이와 가위](https://www.acmicpc.net/problem/20444)         |  G5   |  ✅   | 2025-03-07 | 2025-03-10 |
+|          [반도체 설계](https://www.acmicpc.net/problem/2352)          |  G2   |  ☑️   | 2025-03-09 |            |
 
 </details>
