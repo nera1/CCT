@@ -231,5 +231,7 @@ Since 2024.10.26
 |          [반도체 설계](https://www.acmicpc.net/problem/2352)          |  G2   |  ☑️   | 2025-03-09 |            |
 |          [세 수의 합](https://www.acmicpc.net/problem/2295)           |  G4   |  ❌   | 2025-03-09 | 2025-03-14 |
 |       [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)        |  G2   |  ❌   | 2025-03-09 | 2025-03-14 |
+|         [브리징 시그널](https://www.acmicpc.net/problem/3066)         |  G2   |  ☑️   | 2025-03-10 |            |
+|         [Closest Pair](https://www.acmicpc.net/problem/14746)         |  G5   |  ☑️   | 2025-03-10 |            |
 
 </details>
