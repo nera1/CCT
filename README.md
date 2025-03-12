@@ -235,5 +235,6 @@ Since 2024.10.26
 |         [Closest Pair](https://www.acmicpc.net/problem/14746)         |  G5   |  ☑️   | 2025-03-10 |            |
 |             [채굴](https://www.acmicpc.net/problem/15573)             |  G3   |  ✅   | 2025-03-11 | 2025-03-16 |
 |          [Convention](https://www.acmicpc.net/problem/16776)          |  G4   |  ❌   | 2025-03-11 | 2025-03-16 |
+|           [전기요금](https://www.acmicpc.net/problem/5710)            |  G4   |  ❌   | 2025-03-12 | 2025-03-17 |
 
 </details>
