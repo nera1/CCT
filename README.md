@@ -237,5 +237,6 @@ Since 2024.10.26
 |          [Convention](https://www.acmicpc.net/problem/16776)          |  G4   |  ❌   | 2025-03-11 | 2025-03-16 |
 |           [전기요금](https://www.acmicpc.net/problem/5710)            |  G4   |  ❌   | 2025-03-12 | 2025-03-17 |
 |        [회의실 배정 4](https://www.acmicpc.net/problem/19623)         |  G3   |  ❌   | 2025-03-12 | 2025-03-17 |
+|           [놀이 공원](https://www.acmicpc.net/problem/1561)           |  G1   |  ✅   | 2025-03-13 | 2025-03-18 |
 
 </details>
