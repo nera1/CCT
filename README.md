@@ -136,6 +136,12 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
+|                         Name                          | Level | Stack |    Last    |    Next    |
+| :---------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+| [카드 정렬하기](https://www.acmicpc.net/problem/1715) |  G4   |  ☑️   | 2025-03-14 |            |
+|    [주유소](https://www.acmicpc.net/problem/13305)    |  S3   |  ☑️   | 2025-03-14 |            |
+|   [단어 수학](https://www.acmicpc.net/problem/1339)   |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
+
 </details>
 
 ### Brute Force
