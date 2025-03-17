@@ -136,12 +136,16 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                         Name                          | Level | Stack |    Last    |    Next    |
-| :---------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-| [카드 정렬하기](https://www.acmicpc.net/problem/1715) |  G4   |  ☑️   | 2025-03-14 |            |
-|    [주유소](https://www.acmicpc.net/problem/13305)    |  S3   |  ☑️   | 2025-03-14 |            |
-|   [단어 수학](https://www.acmicpc.net/problem/1339)   |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
-|     [센서](https://www.acmicpc.net/problem/2212)      |  G4   |  ❌   | 2025-03-16 | 2025-03-21 |
+|                          Name                           | Level | Stack |    Last    |    Next    |
+| :-----------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|  [카드 정렬하기](https://www.acmicpc.net/problem/1715)  |  G4   |  ☑️   | 2025-03-14 |            |
+|     [주유소](https://www.acmicpc.net/problem/13305)     |  S3   |  ☑️   | 2025-03-14 |            |
+|    [단어 수학](https://www.acmicpc.net/problem/1339)    |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
+|      [센서](https://www.acmicpc.net/problem/2212)       |  G4   |  ❌   | 2025-03-16 | 2025-03-21 |
+|     [컵라면](https://www.acmicpc.net/problem/1781)      |  G2   |  ☑️   | 2025-03-17 |            |
+|      [공항](https://www.acmicpc.net/problem/10775)      |  G2   |  ☑️   | 2025-03-17 |            |
+| [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |  G1   |  ☑️   | 2025-03-17 |            |
+|  [강의실 배정](https://www.acmicpc.net/problem/11000)   |  G5   |  ❌   | 2025-03-17 | 2025-03-22 |
 
 </details>
 
