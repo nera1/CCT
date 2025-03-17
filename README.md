@@ -146,6 +146,7 @@ Since 2024.10.26
 |      [공항](https://www.acmicpc.net/problem/10775)      |  G2   |  ☑️   | 2025-03-17 |            |
 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |  G1   |  ☑️   | 2025-03-17 |            |
 |  [강의실 배정](https://www.acmicpc.net/problem/11000)   |  G5   |  ❌   | 2025-03-17 | 2025-03-22 |
+|     [수 묶기](https://www.acmicpc.net/problem/1744)     |  G4   |  ✅   | 2025-03-17 | 2025-03-22 |
 
 </details>
 
