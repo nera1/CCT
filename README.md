@@ -147,6 +147,8 @@ Since 2024.10.26
 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |  G1   |  ☑️   | 2025-03-17 |            |
 |  [강의실 배정](https://www.acmicpc.net/problem/11000)   |  G5   |  ❌   | 2025-03-17 | 2025-03-22 |
 |     [수 묶기](https://www.acmicpc.net/problem/1744)     |  G4   |  ✅   | 2025-03-17 | 2025-03-22 |
+|   [수리공 항승](https://www.acmicpc.net/problem/1449)   |  S3   |  ☑️   | 2025-03-18 |            |
+|      [행렬](https://www.acmicpc.net/problem/1080)       |  S1   |  ❌   | 2025-03-18 | 2025-03-23 |
 
 </details>
 
