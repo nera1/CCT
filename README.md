@@ -11,17 +11,18 @@ Since 2024.10.26
 
 ## Summary
 
-|                  Category                   | Solved | Last |
-| :-----------------------------------------: | :----: | :--: |
-|           [BFS / DFS](#bfs--dfs)            |        |      |
-|      [Implementation](#implementation)      |        |      |
-| [Dynamic Programming](#dynamic-programming) |        |      |
-|              [Greedy](#greedy)              |        |      |
-|         [Brute Force](#brute-force)         |        |      |
-|         [Two-Pointer](#two-pointer)         |        |      |
-|               [Stack](#Stack)               |        |      |
-|            [Sweeping](#sweeping)            |        |      |
-|          [Simulation](#simulation)          |        |      |
+|                    Category                     | Solved | Last |
+| :---------------------------------------------: | :----: | :--: |
+|             [BFS / DFS](#bfs--dfs)              |        |      |
+|        [Implementation](#implementation)        |        |      |
+|   [Dynamic Programming](#dynamic-programming)   |        |      |
+|                [Greedy](#greedy)                |        |      |
+|           [Brute Force](#brute-force)           |        |      |
+|           [Two-Pointer](#two-pointer)           |        |      |
+|                 [Stack](#Stack)                 |        |      |
+|              [Sweeping](#sweeping)              |        |      |
+|            [Simulation](#simulation)            |        |      |
+| [Minimum Spanning Tree](#minimum-spanning-tree) |        |      |
 
 ## Symbols
 
@@ -254,5 +255,21 @@ Since 2024.10.26
 |           [놀이 공원](https://www.acmicpc.net/problem/1561)           |  G1   |  ✅   | 2025-03-13 | 2025-03-18 |
 |        [부분수열의 합 2](https://www.acmicpc.net/problem/1208)        |  G1   |  ❌   | 2025-03-14 | 2025-03-19 |
 |           [냅색문제](https://www.acmicpc.net/problem/1450)            |  G1   |  ✅   | 2025-03-14 | 2025-03-19 |
+
+</details>
+
+### Minimum Spanning Tree
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                           Name                           | Level | Stack |    Last    |    Next    |
+| :------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|  [네트워크 연결](https://www.acmicpc.net/problem/1922)   |  G4   |  ✅   | 2025-03-19 | 2025-03-24 |
+| [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  G4   |  ❌   | 2025-03-19 | 2025-03-24 |
 
 </details>
