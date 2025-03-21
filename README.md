@@ -274,5 +274,6 @@ Since 2024.10.26
 |  [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  G4   |  ☑️   | 2025-03-19 |            |
 |      [전력난](https://www.acmicpc.net/problem/6497)      |  G4   |  ☑️   | 2025-03-19 |            |
 |    [여행 가자](https://www.acmicpc.net/problem/1976)     |  G4   |  ☑️   | 2025-03-21 |            |
+|      [도서관](https://www.acmicpc.net/problem/1416)      |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
 
 </details>
