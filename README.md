@@ -142,7 +142,7 @@ Since 2024.10.26
 |  [카드 정렬하기](https://www.acmicpc.net/problem/1715)  |  G4   |  ☑️   | 2025-03-14 |            |
 |     [주유소](https://www.acmicpc.net/problem/13305)     |  S3   |  ☑️   | 2025-03-14 |            |
 |    [단어 수학](https://www.acmicpc.net/problem/1339)    |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
-|      [센서](https://www.acmicpc.net/problem/2212)       |  G4   |  ❌   | 2025-03-16 | 2025-03-21 |
+|      [센서](https://www.acmicpc.net/problem/2212)       |  G4   | ❌✅  | 2025-03-21 | 2025-04-04 |
 |     [컵라면](https://www.acmicpc.net/problem/1781)      |  G2   |  ☑️   | 2025-03-17 |            |
 |      [공항](https://www.acmicpc.net/problem/10775)      |  G2   |  ☑️   | 2025-03-17 |            |
 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |  G1   |  ☑️   | 2025-03-17 |            |
@@ -273,5 +273,6 @@ Since 2024.10.26
 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  G4   |  ❌   | 2025-03-19 | 2025-03-24 |
 |  [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  G4   |  ☑️   | 2025-03-19 |            |
 |      [전력난](https://www.acmicpc.net/problem/6497)      |  G4   |  ☑️   | 2025-03-19 |            |
+|    [여행 가자](https://www.acmicpc.net/problem/1976)     |  G4   |  ☑️   | 2025-03-21 |            |
 
 </details>
