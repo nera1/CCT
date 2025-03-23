@@ -151,6 +151,7 @@ Since 2024.10.26
 |   [수리공 항승](https://www.acmicpc.net/problem/1449)   |  S3   |  ☑️   | 2025-03-18 |            |
 |      [행렬](https://www.acmicpc.net/problem/1080)       |  S1   |  ❌   | 2025-03-18 | 2025-03-23 |
 |      [과제](https://www.acmicpc.net/problem/13904)      |  G3   |  ✅   | 2025-03-22 | 2025-03-27 |
+|      [트리](https://www.acmicpc.net/problem/1068)       |  G5   |  ✅   | 2025-03-23 | 2025-03-28 |
 
 </details>
 
@@ -276,5 +277,6 @@ Since 2024.10.26
 |      [전력난](https://www.acmicpc.net/problem/6497)      |  G4   |  ☑️   | 2025-03-19 |            |
 |    [여행 가자](https://www.acmicpc.net/problem/1976)     |  G4   |  ☑️   | 2025-03-21 |            |
 |      [도서관](https://www.acmicpc.net/problem/1416)      |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
+|    [행성 연결](https://www.acmicpc.net/problem/16398)    |  G4   |  ✅   | 2025-03-23 |            |
 
 </details>
