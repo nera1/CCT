@@ -107,6 +107,7 @@ Since 2024.10.26
 |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  G2   |  ☑️   | 2025-02-22 |            |
 |      [ABCDE](https://www.acmicpc.net/problem/13023)       |  G5   |  ❌   | 2025-02-24 | 2025-02-27 |
 |    [인구 이동](https://www.acmicpc.net/problem/16234)     |  G4   |  ❌   | 2025-02-24 | 2025-02-27 |
+|      [결혼식](https://www.acmicpc.net/problem/16234)      |  S2   |  ☑️   | 2025-03-24 |            |
 
 </details>
 
@@ -137,20 +138,21 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                          Name                           | Level | Stack |    Last    |    Next    |
-| :-----------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-|  [카드 정렬하기](https://www.acmicpc.net/problem/1715)  |  G4   |  ☑️   | 2025-03-14 |            |
-|     [주유소](https://www.acmicpc.net/problem/13305)     |  S3   |  ☑️   | 2025-03-14 |            |
-|    [단어 수학](https://www.acmicpc.net/problem/1339)    |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
-|      [센서](https://www.acmicpc.net/problem/2212)       |  G4   | ❌✅  | 2025-03-21 | 2025-04-04 |
-|     [컵라면](https://www.acmicpc.net/problem/1781)      |  G2   |  ☑️   | 2025-03-17 |            |
-|      [공항](https://www.acmicpc.net/problem/10775)      |  G2   |  ☑️   | 2025-03-17 |            |
-| [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |  G1   |  ☑️   | 2025-03-17 |            |
-|  [강의실 배정](https://www.acmicpc.net/problem/11000)   |  G5   |  ❌   | 2025-03-17 | 2025-03-22 |
-|     [수 묶기](https://www.acmicpc.net/problem/1744)     |  G4   |  ✅   | 2025-03-17 | 2025-03-22 |
-|   [수리공 항승](https://www.acmicpc.net/problem/1449)   |  S3   |  ☑️   | 2025-03-18 |            |
-|      [행렬](https://www.acmicpc.net/problem/1080)       |  S1   |  ❌   | 2025-03-18 | 2025-03-23 |
-|      [과제](https://www.acmicpc.net/problem/13904)      |  G3   |  ✅   | 2025-03-22 | 2025-03-27 |
+|                           Name                           | Level | Stack |    Last    |    Next    |
+| :------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|  [카드 정렬하기](https://www.acmicpc.net/problem/1715)   |  G4   |  ☑️   | 2025-03-14 |            |
+|     [주유소](https://www.acmicpc.net/problem/13305)      |  S3   |  ☑️   | 2025-03-14 |            |
+|    [단어 수학](https://www.acmicpc.net/problem/1339)     |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
+|       [센서](https://www.acmicpc.net/problem/2212)       |  G4   | ❌✅  | 2025-03-21 | 2025-04-04 |
+|      [컵라면](https://www.acmicpc.net/problem/1781)      |  G2   |  ☑️   | 2025-03-17 |            |
+|      [공항](https://www.acmicpc.net/problem/10775)       |  G2   |  ☑️   | 2025-03-17 |            |
+| [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)  |  G1   |  ☑️   | 2025-03-17 |            |
+|   [강의실 배정](https://www.acmicpc.net/problem/11000)   |  G5   |  ❌   | 2025-03-17 | 2025-03-22 |
+|     [수 묶기](https://www.acmicpc.net/problem/1744)      |  G4   |  ✅   | 2025-03-17 | 2025-03-22 |
+|   [수리공 항승](https://www.acmicpc.net/problem/1449)    |  S3   |  ☑️   | 2025-03-18 |            |
+|       [행렬](https://www.acmicpc.net/problem/1080)       |  S1   |  ❌   | 2025-03-18 | 2025-03-23 |
+|      [과제](https://www.acmicpc.net/problem/13904)       |  G3   |  ✅   | 2025-03-22 | 2025-03-27 |
+| [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |  S1   |  ☑️   | 2025-03-24 |            |
 
 </details>
 
@@ -259,7 +261,7 @@ Since 2024.10.26
 
 </details>
 
-### Minimum Spanning Tree
+### Tree
 
 <details>
   <summary>Programmers</summary>
@@ -276,5 +278,6 @@ Since 2024.10.26
 |      [전력난](https://www.acmicpc.net/problem/6497)      |  G4   |  ☑️   | 2025-03-19 |            |
 |    [여행 가자](https://www.acmicpc.net/problem/1976)     |  G4   |  ☑️   | 2025-03-21 |            |
 |      [도서관](https://www.acmicpc.net/problem/1416)      |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
+|       [LCA](https://www.acmicpc.net/problem/11437)       |  G4   |  ✅   | 2025-03-24 | 2025-03-29 |
 
 </details>
