@@ -154,6 +154,7 @@ Since 2024.10.26
 |      [과제](https://www.acmicpc.net/problem/13904)       |  G3   |  ✅   | 2025-03-22 | 2025-03-27 |
 |       [트리](https://www.acmicpc.net/problem/1068)       |  G5   |  ✅   | 2025-03-23 | 2025-03-28 |
 | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |  S1   |  ☑️   | 2025-03-24 |            |
+|  [흙길 보수하기](https://www.acmicpc.net/problem/1911)   |  G5   |  ☑️   | 2025-03-25 |            |
 
 </details>
 
@@ -259,6 +260,7 @@ Since 2024.10.26
 |           [놀이 공원](https://www.acmicpc.net/problem/1561)           |  G1   |  ✅   | 2025-03-13 | 2025-03-18 |
 |        [부분수열의 합 2](https://www.acmicpc.net/problem/1208)        |  G1   |  ❌   | 2025-03-14 | 2025-03-19 |
 |           [냅색문제](https://www.acmicpc.net/problem/1450)            |  G1   |  ✅   | 2025-03-14 | 2025-03-19 |
+|          [카드 게임](https://www.acmicpc.net/problem/16566)           |  P5   |  ✅   | 2025-03-25 | 2025-03-30 |
 
 </details>
 
