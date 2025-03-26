@@ -11,18 +11,19 @@ Since 2024.10.26
 
 ## Summary
 
-|                    Category                     | Solved | Last |
-| :---------------------------------------------: | :----: | :--: |
-|             [BFS / DFS](#bfs--dfs)              |        |      |
-|        [Implementation](#implementation)        |        |      |
-|   [Dynamic Programming](#dynamic-programming)   |        |      |
-|                [Greedy](#greedy)                |        |      |
-|           [Brute Force](#brute-force)           |        |      |
-|           [Two-Pointer](#two-pointer)           |        |      |
-|                 [Stack](#Stack)                 |        |      |
-|              [Sweeping](#sweeping)              |        |      |
-|            [Simulation](#simulation)            |        |      |
-| [Minimum Spanning Tree](#minimum-spanning-tree) |        |      |
+|                  Category                   | Solved | Last |
+| :-----------------------------------------: | :----: | :--: |
+|           [BFS / DFS](#bfs--dfs)            |        |      |
+|      [Implementation](#implementation)      |        |      |
+| [Dynamic Programming](#dynamic-programming) |        |      |
+|              [Greedy](#greedy)              |        |      |
+|         [Brute Force](#brute-force)         |        |      |
+|         [Two-Pointer](#two-pointer)         |        |      |
+|               [Stack](#Stack)               |        |      |
+|            [Sweeping](#sweeping)            |        |      |
+|          [Simulation](#simulation)          |        |      |
+|                [Tree](#tree)                |        |      |
+|            [Dijkstra](#dijkstra)            |        |      |
 
 ## Symbols
 
@@ -155,6 +156,7 @@ Since 2024.10.26
 |       [트리](https://www.acmicpc.net/problem/1068)       |  G5   |  ✅   | 2025-03-23 | 2025-03-28 |
 | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |  S1   |  ☑️   | 2025-03-24 |            |
 |  [흙길 보수하기](https://www.acmicpc.net/problem/1911)   |  G5   |  ☑️   | 2025-03-25 |            |
+|  [파일 합치기 3](https://www.acmicpc.net/problem/13975)  |  G4   |  ☑️   | 2025-03-26 |            |
 
 </details>
 
@@ -283,5 +285,21 @@ Since 2024.10.26
 |      [도서관](https://www.acmicpc.net/problem/1416)      |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
 |    [행성 연결](https://www.acmicpc.net/problem/16398)    |  G4   |  ✅   | 2025-03-23 | 2025-03-28 |
 |       [LCA](https://www.acmicpc.net/problem/11437)       |  G3   |  ✅   | 2025-03-24 | 2025-03-29 |
+
+</details>
+
+### Dijkstra
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                          Name                           | Level | Stack |    Last    |    Next    |
+| :-----------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|    [최단경로](https://www.acmicpc.net/problem/1753)     |  G4   |  ✅   | 2025-03-26 | 2025-03-31 |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916) |  G5   |  ✅   | 2025-03-26 | 2025-03-31 |
 
 </details>
