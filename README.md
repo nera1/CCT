@@ -286,6 +286,7 @@ Since 2024.10.26
 |      [도서관](https://www.acmicpc.net/problem/1416)      |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
 |    [행성 연결](https://www.acmicpc.net/problem/16398)    |  G4   |  ✅   | 2025-03-23 | 2025-03-28 |
 |       [LCA](https://www.acmicpc.net/problem/11437)       |  G3   |  ✅   | 2025-03-24 | 2025-03-29 |
+|      [거짓말](https://www.acmicpc.net/problem/1043)      |  G4   |  ❌   | 2025-03-28 | 2025-04-01 |
 
 </details>
 
@@ -303,5 +304,6 @@ Since 2024.10.26
 |    [최단경로](https://www.acmicpc.net/problem/1753)     |  G4   |  ✅   | 2025-03-26 | 2025-03-31 |
 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |  G5   |  ✅   | 2025-03-26 | 2025-03-31 |
 |   [숨바꼭질 3](https://www.acmicpc.net/problem/13549)   |  G5   |  ❌   | 2025-03-27 | 2025-04-01 |
+|      [파티](https://www.acmicpc.net/problem/1238)       |  G3   |  ☑️   | 2025-03-28 |            |
 
 </details>
