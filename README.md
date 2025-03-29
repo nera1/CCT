@@ -305,5 +305,6 @@ Since 2024.10.26
 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |  G5   |  ✅   | 2025-03-26 | 2025-03-31 |
 |   [숨바꼭질 3](https://www.acmicpc.net/problem/13549)   |  G5   |  ❌   | 2025-03-27 | 2025-04-01 |
 |      [파티](https://www.acmicpc.net/problem/1238)       |  G3   |  ☑️   | 2025-03-28 |            |
+|    [택배 배송](https://www.acmicpc.net/problem/5972)    |  G5   |  ☑️   | 2025-03-29 |            |
 
 </details>
