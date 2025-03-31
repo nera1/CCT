@@ -159,6 +159,7 @@ Since 2024.10.26
 |  [파일 합치기 3](https://www.acmicpc.net/problem/13975)   |  G4   |  ☑️   | 2025-03-26 |            |
 | [최소 회의실 개수](https://www.acmicpc.net/problem/19598) |  G5   |  ✅   | 2025-03-27 | 2025-04-01 |
 |    [크게 만들기](https://www.acmicpc.net/problem/2812)    |  G3   |  ✅   | 2025-03-30 | 2025-04-04 |
+|     [시간 관리](https://www.acmicpc.net/problem/1263)     |  G5   |  ✅   | 2025-03-31 | 2025-04-05 |
 
 </details>
 
