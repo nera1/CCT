@@ -163,6 +163,7 @@ Since 2024.10.26
 | [사전 순 최대 공통 부분 수열](https://www.acmicpc.net/problem/30805) |  G4   |  ❌   | 2025-03-31 | 2025-04-05 |
 |           [순회강연](https://www.acmicpc.net/problem/2109)           |  G3   |  ☑️   | 2025-04-01 |            |
 |         [겹치는 선분](https://www.acmicpc.net/problem/1689)          |  G4   |  ✅   | 2025-04-01 | 2025-04-06 |
+|            [달력](https://www.acmicpc.net/problem/20207)             |  G5   |  ☑️   | 2025-04-02 |            |
 
 </details>
 
@@ -312,5 +313,6 @@ Since 2024.10.26
 |      [파티](https://www.acmicpc.net/problem/1238)       |  G3   |  ☑️   | 2025-03-28 |            |
 |    [택배 배송](https://www.acmicpc.net/problem/5972)    |  G5   |  ☑️   | 2025-03-29 |            |
 |    [알고스팟](https://www.acmicpc.net/problem/1261)     |  G4   |  ✅   | 2025-04-01 | 2025-04-06 |
+|  [서강그라운드](https://www.acmicpc.net/problem/14938)  |  G4   |  ✅   | 2025-04-02 | 2025-04-07 |
 
 </details>
