@@ -166,6 +166,7 @@ Since 2024.10.26
 |         [겹치는 선분](https://www.acmicpc.net/problem/1689)          |  G4   |  ✅   | 2025-04-01 | 2025-04-06 |
 |            [달력](https://www.acmicpc.net/problem/20207)             |  G5   |  ☑️   | 2025-04-02 |            |
 |         [행복 유치원](https://www.acmicpc.net/problem/13164)         |  G5   |  ✅   | 2025-04-03 | 2025-04-08 |
+|        [전구와 스위치](https://www.acmicpc.net/problem/2138)         |  G4   |  ❌   | 2025-04-04 | 2025-04-09 |
 
 </details>
 
@@ -336,5 +337,6 @@ Since 2024.10.26
 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  S1   |  ☑️   | 2025-04-03 |            |
 |         [키 순서](https://www.acmicpc.net/problem/2458)          |  G4   |  ✅   | 2025-04-03 | 2025-04-08 |
 |          [저울](https://www.acmicpc.net/problem/10159)           |  G4   |  ✅   | 2025-04-03 | 2025-04-08 |
+|           [운동](https://www.acmicpc.net/problem/1956)           |  G4   |  ☑️   | 2025-04-04 |            |
 
 </details>
