@@ -167,6 +167,7 @@ Since 2024.10.26
 |            [달력](https://www.acmicpc.net/problem/20207)             |  G5   |  ☑️   | 2025-04-02 |            |
 |         [행복 유치원](https://www.acmicpc.net/problem/13164)         |  G5   |  ✅   | 2025-04-03 | 2025-04-08 |
 |        [전구와 스위치](https://www.acmicpc.net/problem/2138)         |  G4   |  ❌   | 2025-04-04 | 2025-04-09 |
+|        [공주님의 정원](https://www.acmicpc.net/problem/2457)         |  G3   |  ✅   | 2025-04-05 | 2025-04-10 |
 
 </details>
 
@@ -338,5 +339,6 @@ Since 2024.10.26
 |         [키 순서](https://www.acmicpc.net/problem/2458)          |  G4   |  ✅   | 2025-04-03 | 2025-04-08 |
 |          [저울](https://www.acmicpc.net/problem/10159)           |  G4   |  ✅   | 2025-04-03 | 2025-04-08 |
 |           [운동](https://www.acmicpc.net/problem/1956)           |  G4   |  ☑️   | 2025-04-04 |            |
+|        [구슬 찾기](https://www.acmicpc.net/problem/2617)         |  G4   |  ☑️   | 2025-04-05 |            |
 
 </details>
