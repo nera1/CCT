@@ -168,6 +168,7 @@ Since 2024.10.26
 |         [행복 유치원](https://www.acmicpc.net/problem/13164)         |  G5   |  ✅   | 2025-04-03 | 2025-04-08 |
 |        [전구와 스위치](https://www.acmicpc.net/problem/2138)         |  G4   |  ❌   | 2025-04-04 | 2025-04-09 |
 |        [공주님의 정원](https://www.acmicpc.net/problem/2457)         |  G3   |  ✅   | 2025-04-05 | 2025-04-10 |
+|         [내일 할거야](https://www.acmicpc.net/problem/7983)          |  G5   |  ✅   | 2025-04-07 | 2025-04-12 |
 
 </details>
 
@@ -286,17 +287,18 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                           Name                           | Level | Stack |    Last    |    Next    |
-| :------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-|  [네트워크 연결](https://www.acmicpc.net/problem/1922)   |  G4   |  ✅   | 2025-03-19 | 2025-03-24 |
-| [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  G4   |  ❌   | 2025-03-19 | 2025-03-24 |
-|  [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  G4   |  ☑️   | 2025-03-19 |            |
-|      [전력난](https://www.acmicpc.net/problem/6497)      |  G4   |  ☑️   | 2025-03-19 |            |
-|    [여행 가자](https://www.acmicpc.net/problem/1976)     |  G4   |  ☑️   | 2025-03-21 |            |
-|      [도서관](https://www.acmicpc.net/problem/1416)      |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
-|    [행성 연결](https://www.acmicpc.net/problem/16398)    |  G4   |  ✅   | 2025-03-23 | 2025-03-28 |
-|       [LCA](https://www.acmicpc.net/problem/11437)       |  G3   |  ✅   | 2025-03-24 | 2025-03-29 |
-|      [거짓말](https://www.acmicpc.net/problem/1043)      |  G4   |  ❌   | 2025-03-28 | 2025-04-01 |
+|                           Name                            | Level | Stack |    Last    |    Next    |
+| :-------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|   [네트워크 연결](https://www.acmicpc.net/problem/1922)   |  G4   |  ✅   | 2025-03-19 | 2025-03-24 |
+| [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  |  G4   |  ❌   | 2025-03-19 | 2025-03-24 |
+|  [도시 분할 계획](https://www.acmicpc.net/problem/1647)   |  G4   |  ☑️   | 2025-03-19 |            |
+|      [전력난](https://www.acmicpc.net/problem/6497)       |  G4   |  ☑️   | 2025-03-19 |            |
+|     [여행 가자](https://www.acmicpc.net/problem/1976)     |  G4   |  ☑️   | 2025-03-21 |            |
+|      [도서관](https://www.acmicpc.net/problem/1416)       |  G4   |  ✅   | 2025-03-21 | 2025-03-26 |
+|    [행성 연결](https://www.acmicpc.net/problem/16398)     |  G4   |  ✅   | 2025-03-23 | 2025-03-28 |
+|       [LCA](https://www.acmicpc.net/problem/11437)        |  G3   |  ✅   | 2025-03-24 | 2025-03-29 |
+|      [거짓말](https://www.acmicpc.net/problem/1043)       |  G4   |  ❌   | 2025-03-28 | 2025-04-01 |
+| [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |  G3   |  ✅   | 2025-04-07 | 2025-04-12 |
 
 </details>
 
