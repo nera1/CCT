@@ -346,3 +346,18 @@ Since 2024.10.26
 |        [구슬 찾기](https://www.acmicpc.net/problem/2617)         |  G4   |  ☑️   | 2025-04-05 |            |
 
 </details>
+
+### Dynamic Programming
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                      Name                      | Level | Stack |    Last    |    Next    |
+| :--------------------------------------------: | :---: | :---: | :--------: | :--------: |
+| [합분해](https://www.acmicpc.net/problem/2225) |  G5   |  ✅   | 2025-04-10 | 2025-04-15 |
+
+</details>
