@@ -322,6 +322,7 @@ Since 2024.10.26
 |    [택배 배송](https://www.acmicpc.net/problem/5972)    |  G5   |  ☑️   | 2025-03-29 |            |
 |    [알고스팟](https://www.acmicpc.net/problem/1261)     |  G4   |  ✅   | 2025-04-01 | 2025-04-06 |
 |  [서강그라운드](https://www.acmicpc.net/problem/14938)  |  G4   |  ✅   | 2025-04-02 | 2025-04-07 |
+|      [택배](https://www.acmicpc.net/problem/1719)       |  G3   |  ✅   | 2025-04-11 | 2025-04-16 |
 
 </details>
 
@@ -356,8 +357,9 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                      Name                      | Level | Stack |    Last    |    Next    |
-| :--------------------------------------------: | :---: | :---: | :--------: | :--------: |
-| [합분해](https://www.acmicpc.net/problem/2225) |  G5   |  ✅   | 2025-04-10 | 2025-04-15 |
+|                        Name                         | Level | Stack |    Last    |    Next    |
+| :-------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|   [합분해](https://www.acmicpc.net/problem/2225)    |  G5   |  ✅   | 2025-04-10 | 2025-04-15 |
+| [계단 오르기](https://www.acmicpc.net/problem/2225) |  S3   |  ✅   | 2025-04-11 | 2025-04-16 |
 
 </details>
