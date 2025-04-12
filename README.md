@@ -110,7 +110,7 @@ Since 2024.10.26
 |      [ABCDE](https://www.acmicpc.net/problem/13023)       |  G5   |  ❌   | 2025-02-24 | 2025-02-27 |
 |    [인구 이동](https://www.acmicpc.net/problem/16234)     |  G4   |  ❌   | 2025-02-24 | 2025-02-27 |
 |      [결혼식](https://www.acmicpc.net/problem/16234)      |  S2   |  ☑️   | 2025-03-24 |            |
-|    [숫자고르기](https://www.acmicpc.net/problem/2668)     |  G5   |  ❌   | 2025-04-12 |            |
+|    [숫자고르기](https://www.acmicpc.net/problem/2668)     |  G5   |  ❌   | 2025-04-12 | 2025-04-17 |
 
 </details>
 
