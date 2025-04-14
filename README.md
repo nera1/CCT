@@ -172,6 +172,7 @@ Since 2024.10.26
 |         [내일 할거야](https://www.acmicpc.net/problem/7983)          |  G5   |  ✅   | 2025-04-07 | 2025-04-12 |
 |             [소트](https://www.acmicpc.net/problem/1083)             |  G4   |  ☑️   | 2025-04-08 |            |
 |             [소트](https://www.acmicpc.net/problem/1071)             |  P5   |  ☑️   | 2025-04-09 |            |
+|              [배](https://www.acmicpc.net/problem/1092)              |  G5   |  ❌   | 2025-04-14 | 2025-04-19 |
 
 </details>
 
