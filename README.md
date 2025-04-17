@@ -123,16 +123,6 @@ Since 2024.10.26
   <summary>BJ</summary>
 </details>
 
-### Dynamic Programming
-
-<details>
-  <summary>Programmers</summary>
-</details>
-<details>
-  <summary>BJ</summary>
-
-</details>
-
 ### Greedy
 
 <details>
@@ -147,7 +137,7 @@ Since 2024.10.26
 |           [주유소](https://www.acmicpc.net/problem/13305)            |  S3   |  ☑️   | 2025-03-14 |            |
 |          [단어 수학](https://www.acmicpc.net/problem/1339)           |  G4   |  ✅   | 2025-03-15 | 2025-03-20 |
 |             [센서](https://www.acmicpc.net/problem/2212)             |  G4   | ❌✅  | 2025-03-21 | 2025-04-04 |
-|            [컵라면](https://www.acmicpc.net/problem/1781)            |  G2   |  ☑️   | 2025-03-17 |            |
+|            [컵라면](https://www.acmicpc.net/problem/1781)            |  G2   | ☑️✅  | 2025-04-17 | 2025-04-22 |
 |            [공항](https://www.acmicpc.net/problem/10775)             |  G2   |  ☑️   | 2025-03-17 |            |
 |       [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)        |  G1   |  ☑️   | 2025-03-17 |            |
 |         [강의실 배정](https://www.acmicpc.net/problem/11000)         |  G5   |  ❌   | 2025-03-17 | 2025-03-22 |
@@ -365,5 +355,6 @@ Since 2024.10.26
 | [계단 오르기](https://www.acmicpc.net/problem/2225) |  S3   |  ✅   | 2025-04-11 | 2025-04-16 |
 |   [RGB거리](https://www.acmicpc.net/problem/1149)   |  S1   |  ☑️   | 2025-04-12 |            |
 |    [1학년](https://www.acmicpc.net/problem/5557)    |  G5   |  ☑️   | 2025-04-13 |            |
+|   [동전 1](https://www.acmicpc.net/problem/2293)    |  G4   |  ❌   | 2025-04-17 | 2025-04-22 |
 
 </details>
