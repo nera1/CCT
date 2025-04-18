@@ -356,5 +356,6 @@ Since 2024.10.26
 |   [RGB거리](https://www.acmicpc.net/problem/1149)   |  S1   |  ☑️   | 2025-04-12 |            |
 |    [1학년](https://www.acmicpc.net/problem/5557)    |  G5   |  ☑️   | 2025-04-13 |            |
 |   [동전 1](https://www.acmicpc.net/problem/2293)    |  G4   |  ❌   | 2025-04-17 | 2025-04-22 |
+|    [동전](https://www.acmicpc.net/problem/9084)     |  G5   |  ☑️   | 2025-04-18 |            |
 
 </details>
