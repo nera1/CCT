@@ -357,5 +357,6 @@ Since 2024.10.26
 |    [1학년](https://www.acmicpc.net/problem/5557)    |  G5   |  ☑️   | 2025-04-13 |            |
 |   [동전 1](https://www.acmicpc.net/problem/2293)    |  G4   |  ❌   | 2025-04-17 | 2025-04-22 |
 |    [동전](https://www.acmicpc.net/problem/9084)     |  G5   |  ☑️   | 2025-04-18 |            |
+|  [줄세우기](https://www.acmicpc.net/problem/2631)   |  G4   |  ✅   | 2025-04-19 | 2025-04-24 |
 
 </details>
