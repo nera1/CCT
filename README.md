@@ -362,5 +362,6 @@ Since 2024.10.26
 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |  G4   |  ✅   | 2025-04-21 | 2025-04-26 |
 |     [암호코드](https://www.acmicpc.net/problem/2011)     |  G5   |  ☑️   | 2025-04-21 |            |
 |       [LCS](https://www.acmicpc.net/problem/9251)        |  G5   |  ❌   | 2025-04-21 | 2025-04-26 |
+|      [LCS 3](https://www.acmicpc.net/problem/1958)       |  G4   |  ❌   | 2025-04-22 | 2025-04-27 |
 
 </details>
