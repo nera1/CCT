@@ -349,19 +349,22 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                           Name                           | Level | Stack |    Last    |    Next    |
-| :------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-|      [합분해](https://www.acmicpc.net/problem/2225)      |  G5   |  ✅   | 2025-04-10 | 2025-04-15 |
-|   [계단 오르기](https://www.acmicpc.net/problem/2225)    |  S3   |  ✅   | 2025-04-11 | 2025-04-16 |
-|     [RGB거리](https://www.acmicpc.net/problem/1149)      |  S1   |  ☑️   | 2025-04-12 |            |
-|      [1학년](https://www.acmicpc.net/problem/5557)       |  G5   |  ☑️   | 2025-04-13 |            |
-|      [동전 1](https://www.acmicpc.net/problem/2293)      |  G4   |  ❌   | 2025-04-17 | 2025-04-22 |
-|       [동전](https://www.acmicpc.net/problem/9084)       |  G5   |  ☑️   | 2025-04-18 |            |
-|     [줄세우기](https://www.acmicpc.net/problem/2631)     |  G4   |  ✅   | 2025-04-19 | 2025-04-24 |
-|        [앱](https://www.acmicpc.net/problem/7579)        |  G3   |  ❌   | 2025-04-20 | 2025-04-25 |
-| [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |  G4   |  ✅   | 2025-04-21 | 2025-04-26 |
-|     [암호코드](https://www.acmicpc.net/problem/2011)     |  G5   |  ☑️   | 2025-04-21 |            |
-|       [LCS](https://www.acmicpc.net/problem/9251)        |  G5   |  ❌   | 2025-04-21 | 2025-04-26 |
-|      [LCS 3](https://www.acmicpc.net/problem/1958)       |  G4   |  ❌   | 2025-04-22 | 2025-04-27 |
+|                           Name                            | Level | Stack |    Last    |    Next    |
+| :-------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
+|      [합분해](https://www.acmicpc.net/problem/2225)       |  G5   |  ✅   | 2025-04-10 | 2025-04-15 |
+|    [계단 오르기](https://www.acmicpc.net/problem/2225)    |  S3   |  ✅   | 2025-04-11 | 2025-04-16 |
+|      [RGB거리](https://www.acmicpc.net/problem/1149)      |  S1   |  ☑️   | 2025-04-12 |            |
+|       [1학년](https://www.acmicpc.net/problem/5557)       |  G5   |  ☑️   | 2025-04-13 |            |
+|      [동전 1](https://www.acmicpc.net/problem/2293)       |  G4   |  ❌   | 2025-04-17 | 2025-04-22 |
+|       [동전](https://www.acmicpc.net/problem/9084)        |  G5   |  ☑️   | 2025-04-18 |            |
+|     [줄세우기](https://www.acmicpc.net/problem/2631)      |  G4   |  ✅   | 2025-04-19 | 2025-04-24 |
+|        [앱](https://www.acmicpc.net/problem/7579)         |  G3   |  ❌   | 2025-04-20 | 2025-04-25 |
+| [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)  |  G4   |  ✅   | 2025-04-21 | 2025-04-26 |
+|     [암호코드](https://www.acmicpc.net/problem/2011)      |  G5   |  ☑️   | 2025-04-21 |            |
+|        [LCS](https://www.acmicpc.net/problem/9251)        |  G5   |  ❌   | 2025-04-21 | 2025-04-26 |
+|       [LCS 3](https://www.acmicpc.net/problem/1958)       |  G4   |  ❌   | 2025-04-22 | 2025-04-27 |
+|     [연속합 3](https://www.acmicpc.net/problem/1958)      |  G4   |  ❌   | 2025-04-22 | 2025-04-27 |
+|     [연속합 2](https://www.acmicpc.net/problem/13398)     |  G5   |  ❌   | 2025-04-23 | 2025-04-28 |
+| [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |  G5   |  ☑️   | 2025-04-23 |            |
 
 </details>
