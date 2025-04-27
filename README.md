@@ -368,5 +368,6 @@ Since 2024.10.26
 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |  G5   |  ☑️   | 2025-04-23 |            |
 |  [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)  |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |
 |   [파일 합치기](https://www.acmicpc.net/problem/11066)    |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |
+|       [알약](https://www.acmicpc.net/problem/4811)        |  G5   |  ✅   | 2025-04-27 | 2025-05-02 |
 
 </details>
