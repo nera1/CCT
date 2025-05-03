@@ -370,5 +370,6 @@ Since 2024.10.26
 |   [파일 합치기](https://www.acmicpc.net/problem/11066)    |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |
 |       [알약](https://www.acmicpc.net/problem/4811)        |  G5   |  ✅   | 2025-04-27 | 2025-05-02 |
 |      [계단 수](https://www.acmicpc.net/problem/1562)      |  G1   |  ❌   | 2025-04-28 | 2025-05-03 |
+|    [오르막 수](https://www.acmicpc.net/problem/11057)     |  S1   |  ☑️   | 2025-05-03 |            |
 
 </details>
