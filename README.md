@@ -90,7 +90,7 @@ Since 2024.10.26
 |     [안전 영역](https://www.acmicpc.net/problem/2468)     |  S1   |  ☑️   | 2025-02-15 |            |
 |     [미로 탐색](https://www.acmicpc.net/problem/2178)     |  S1   |  ☑️   | 2025-02-15 |            |
 |  [단지번호붙이기](https://www.acmicpc.net/problem/2667)   |  S1   |  ☑️   | 2025-02-15 |            |
-|     [숨바꼭질](https://www.acmicpc.net/problem/1697)      |  S1   |  ✅   | 2025-02-15 | 2025-02-18 |
+|     [숨바꼭질](https://www.acmicpc.net/problem/1697)      |  S1   | ✅✅  | 2025-05-06 | 2025-05-16 |
 |     [적록색약](https://www.acmicpc.net/problem/10026)     |  G5   |  ☑️   | 2025-02-15 |            |
 |      [토마토](https://www.acmicpc.net/problem/7576)       |  G5   |  ☑️   | 2025-02-15 |            |
 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  S2   |  ☑️   | 2025-02-15 |            |
@@ -99,7 +99,7 @@ Since 2024.10.26
 |    [영역 구하기](https://www.acmicpc.net/problem/2583)    |  S1   |  ☑️   | 2025-02-16 |            |
 |     [섬의 개수](https://www.acmicpc.net/problem/4963)     |  S2   |  ☑️   | 2025-02-17 |            |
 |      [A → B](https://www.acmicpc.net/problem/16953)       |  S2   |  ☑️   | 2025-02-17 |            |
-|    [이분 그래프](https://www.acmicpc.net/problem/1707)    |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
+|    [이분 그래프](https://www.acmicpc.net/problem/1707)    |  G4   | ❌❌  | 2025-05-06 | 2025-05-16 |
 |      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
 |      [토마토](https://www.acmicpc.net/problem/7569)       |  G5   |  ☑️   | 2025-02-19 |            |
 |     [촌수계산](https://www.acmicpc.net/problem/2644)      |  S2   |  ✅   | 2025-02-19 | 2025-02-22 |
@@ -163,6 +163,7 @@ Since 2024.10.26
 |             [소트](https://www.acmicpc.net/problem/1083)             |  G4   |  ☑️   | 2025-04-08 |            |
 |             [소트](https://www.acmicpc.net/problem/1071)             |  P5   |  ☑️   | 2025-04-09 |            |
 |              [배](https://www.acmicpc.net/problem/1092)              |  G5   |  ❌   | 2025-04-14 | 2025-04-19 |
+|          [줄 세우기](https://www.acmicpc.net/problem/7570)           |  G2   |  ❌   | 2025-05-06 | 2025-05-11 |
 
 </details>
 
