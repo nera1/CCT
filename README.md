@@ -100,7 +100,7 @@ Since 2024.10.26
 |     [섬의 개수](https://www.acmicpc.net/problem/4963)     |  S2   |  ☑️   | 2025-02-17 |            |
 |      [A → B](https://www.acmicpc.net/problem/16953)       |  S2   |  ☑️   | 2025-02-17 |            |
 |    [이분 그래프](https://www.acmicpc.net/problem/1707)    |  G4   | ❌❌  | 2025-05-06 | 2025-05-16 |
-|      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   |  ❌   | 2025-02-18 | 2025-02-21 |
+|      [연구소](https://www.acmicpc.net/problem/14502)      |  G4   | ❌☑️  | 2025-05-07 |            |
 |      [토마토](https://www.acmicpc.net/problem/7569)       |  G5   |  ☑️   | 2025-02-19 |            |
 |     [촌수계산](https://www.acmicpc.net/problem/2644)      |  S2   |  ✅   | 2025-02-19 | 2025-02-22 |
 |       [빙산](https://www.acmicpc.net/problem/2573)        |  G4   |  ☑️   | 2025-02-19 |            |
@@ -294,6 +294,7 @@ Since 2024.10.26
 |       [LCA](https://www.acmicpc.net/problem/11437)        |  G3   |  ✅   | 2025-03-24 | 2025-03-29 |
 |      [거짓말](https://www.acmicpc.net/problem/1043)       |  G4   |  ❌   | 2025-03-28 | 2025-04-01 |
 | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |  G3   |  ✅   | 2025-04-07 | 2025-04-12 |
+|     [줄 세우기](https://www.acmicpc.net/problem/2252)     |  G3   |  ❌   | 2025-05-07 | 2025-05-12 |
 
 </details>
 
@@ -373,5 +374,6 @@ Since 2024.10.26
 |       [알약](https://www.acmicpc.net/problem/4811)        |  G5   |  ✅   | 2025-04-27 | 2025-05-02 |
 |      [계단 수](https://www.acmicpc.net/problem/1562)      |  G1   |  ❌   | 2025-04-28 | 2025-05-03 |
 |    [오르막 수](https://www.acmicpc.net/problem/11057)     |  S1   |  ☑️   | 2025-05-03 |            |
+|   [회사 문화 1](https://www.acmicpc.net/problem/14267)    |  G4   |  ✅   | 2025-05-07 | 2025-05-12 |
 
 </details>
