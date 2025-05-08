@@ -237,39 +237,40 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                                 Name                                  | Level | Stack |    Last    |    Next    |
-| :-------------------------------------------------------------------: | :---: | :---: | :--------: | :--------: |
-|          [나무 자르기](https://www.acmicpc.net/problem/2805)          |  S2   |  ☑️   | 2025-02-25 |            |
-|          [랜선 자르기](https://www.acmicpc.net/problem/1654)          |  S2   |  ✅   | 2025-02-25 | 2025-02-28 |
-|             [게임](https://www.acmicpc.net/problem/1654)              |  S3   |  ✅   | 2025-02-25 | 2025-02-28 |
-|             [예산](https://www.acmicpc.net/problem/2512)              |  S2   |  ☑️   | 2025-02-26 |            |
-|          [공유기 설치](https://www.acmicpc.net/problem/2110)          |  G4   |  ✅   | 2025-02-26 | 2025-03-01 |
-|             [용액](https://www.acmicpc.net/problem/2467)              |  G5   |  ❌   | 2025-02-27 | 2025-03-02 |
-|           [중량제한](https://www.acmicpc.net/problem/1939)            |  G3   | ✅✅  | 2025-03-03 | 2025-03-10 |
-|             [좋다](https://www.acmicpc.net/problem/1253)              |  G4   | ❌✅  | 2025-02-03 | 2025-03-10 |
-|            [세 용액](https://www.acmicpc.net/problem/2473)            |  G3   |  ✅   | 2025-03-01 | 2025-03-04 |
-|           [K번째 수](https://www.acmicpc.net/problem/1300)            |  G1   |  ❌   | 2025-03-01 | 2025-03-04 |
-| [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |  G2   |  ❌   | 2025-03-02 | 2025-03-05 |
-|         [두 배열의 합](https://www.acmicpc.net/problem/2143)          |  G3   |  ✅   | 2025-03-04 | 2025-03-07 |
-|           [모자이크](https://www.acmicpc.net/problem/2539)            |  G4   |  ☑️   | 2025-03-05 |            |
-|           [입국심사](https://www.acmicpc.net/problem/3079)            |  G5   | ✅☑️  | 2025-03-08 |            |
-|        [케이크 자르기](https://www.acmicpc.net/problem/17179)         |  G4   |  ❌   | 2025-03-06 | 2025-03-09 |
-|        [창영이와 퇴근](https://www.acmicpc.net/problem/22116)         |  G4   |  ☑️   | 2025-03-06 |            |
-|       [블랙 프라이데이](https://www.acmicpc.net/problem/18114)        |  G5   |  ❌   | 2025-03-07 | 2025-03-10 |
-|        [색종이와 가위](https://www.acmicpc.net/problem/20444)         |  G5   |  ✅   | 2025-03-07 | 2025-03-10 |
-|          [반도체 설계](https://www.acmicpc.net/problem/2352)          |  G2   |  ☑️   | 2025-03-09 |            |
-|          [세 수의 합](https://www.acmicpc.net/problem/2295)           |  G4   |  ❌   | 2025-03-09 | 2025-03-14 |
-|       [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)        |  G2   |  ❌   | 2025-03-09 | 2025-03-14 |
-|         [브리징 시그널](https://www.acmicpc.net/problem/3066)         |  G2   |  ☑️   | 2025-03-10 |            |
-|         [Closest Pair](https://www.acmicpc.net/problem/14746)         |  G5   |  ☑️   | 2025-03-10 |            |
-|             [채굴](https://www.acmicpc.net/problem/15573)             |  G3   |  ✅   | 2025-03-11 | 2025-03-16 |
-|          [Convention](https://www.acmicpc.net/problem/16776)          |  G4   |  ❌   | 2025-03-11 | 2025-03-16 |
-|           [전기요금](https://www.acmicpc.net/problem/5710)            |  G4   |  ❌   | 2025-03-12 | 2025-03-17 |
-|        [회의실 배정 4](https://www.acmicpc.net/problem/19623)         |  G3   |  ❌   | 2025-03-12 | 2025-03-17 |
-|           [놀이 공원](https://www.acmicpc.net/problem/1561)           |  G1   |  ✅   | 2025-03-13 | 2025-03-18 |
-|        [부분수열의 합 2](https://www.acmicpc.net/problem/1208)        |  G1   |  ❌   | 2025-03-14 | 2025-03-19 |
-|           [냅색문제](https://www.acmicpc.net/problem/1450)            |  G1   |  ✅   | 2025-03-14 | 2025-03-19 |
-|          [카드 게임](https://www.acmicpc.net/problem/16566)           |  P5   |  ✅   | 2025-03-25 | 2025-03-30 |
+|                                 Name                                  | Level | Stack  |    Last    |    Next    |
+| :-------------------------------------------------------------------: | :---: | :----: | :--------: | :--------: |
+|          [나무 자르기](https://www.acmicpc.net/problem/2805)          |  S2   |   ☑️   | 2025-02-25 |            |
+|          [랜선 자르기](https://www.acmicpc.net/problem/1654)          |  S2   |   ✅   | 2025-02-25 | 2025-02-28 |
+|             [게임](https://www.acmicpc.net/problem/1654)              |  S3   |   ✅   | 2025-02-25 | 2025-02-28 |
+|             [예산](https://www.acmicpc.net/problem/2512)              |  S2   |   ☑️   | 2025-02-26 |            |
+|          [공유기 설치](https://www.acmicpc.net/problem/2110)          |  G4   |   ✅   | 2025-02-26 | 2025-03-01 |
+|             [용액](https://www.acmicpc.net/problem/2467)              |  G5   |  ❌❌  | 2025-05-08 | 2025-05-18 |
+|           [중량제한](https://www.acmicpc.net/problem/1939)            |  G3   |  ✅✅  | 2025-03-03 | 2025-03-10 |
+|             [좋다](https://www.acmicpc.net/problem/1253)              |  G4   | ❌✅❌ | 2025-05-08 | 2025-05-18 |
+|            [세 용액](https://www.acmicpc.net/problem/2473)            |  G3   |   ✅   | 2025-03-01 | 2025-03-04 |
+|           [K번째 수](https://www.acmicpc.net/problem/1300)            |  G1   |   ❌   | 2025-03-01 | 2025-03-04 |
+| [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) |  G2   |   ❌   | 2025-03-02 | 2025-03-05 |
+|         [두 배열의 합](https://www.acmicpc.net/problem/2143)          |  G3   |   ✅   | 2025-03-04 | 2025-03-07 |
+|           [모자이크](https://www.acmicpc.net/problem/2539)            |  G4   |   ☑️   | 2025-03-05 |            |
+|           [입국심사](https://www.acmicpc.net/problem/3079)            |  G5   |  ✅☑️  | 2025-03-08 |            |
+|        [케이크 자르기](https://www.acmicpc.net/problem/17179)         |  G4   |   ❌   | 2025-03-06 | 2025-03-09 |
+|        [창영이와 퇴근](https://www.acmicpc.net/problem/22116)         |  G4   |   ☑️   | 2025-03-06 |            |
+|       [블랙 프라이데이](https://www.acmicpc.net/problem/18114)        |  G5   |   ❌   | 2025-03-07 | 2025-03-10 |
+|        [색종이와 가위](https://www.acmicpc.net/problem/20444)         |  G5   |   ✅   | 2025-03-07 | 2025-03-10 |
+|          [반도체 설계](https://www.acmicpc.net/problem/2352)          |  G2   |   ☑️   | 2025-03-09 |            |
+|          [세 수의 합](https://www.acmicpc.net/problem/2295)           |  G4   |   ❌   | 2025-03-09 | 2025-03-14 |
+|       [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)        |  G2   |   ❌   | 2025-03-09 | 2025-03-14 |
+|         [브리징 시그널](https://www.acmicpc.net/problem/3066)         |  G2   |   ☑️   | 2025-03-10 |            |
+|         [Closest Pair](https://www.acmicpc.net/problem/14746)         |  G5   |   ☑️   | 2025-03-10 |            |
+|             [채굴](https://www.acmicpc.net/problem/15573)             |  G3   |   ✅   | 2025-03-11 | 2025-03-16 |
+|          [Convention](https://www.acmicpc.net/problem/16776)          |  G4   |   ❌   | 2025-03-11 | 2025-03-16 |
+|           [전기요금](https://www.acmicpc.net/problem/5710)            |  G4   |   ❌   | 2025-03-12 | 2025-03-17 |
+|        [회의실 배정 4](https://www.acmicpc.net/problem/19623)         |  G3   |   ❌   | 2025-03-12 | 2025-03-17 |
+|           [놀이 공원](https://www.acmicpc.net/problem/1561)           |  G1   |   ✅   | 2025-03-13 | 2025-03-18 |
+|        [부분수열의 합 2](https://www.acmicpc.net/problem/1208)        |  G1   |   ❌   | 2025-03-14 | 2025-03-19 |
+|           [냅색문제](https://www.acmicpc.net/problem/1450)            |  G1   |   ✅   | 2025-03-14 | 2025-03-19 |
+|          [카드 게임](https://www.acmicpc.net/problem/16566)           |  P5   |   ✅   | 2025-03-25 | 2025-03-30 |
+|        [구간 나누기 2](https://www.acmicpc.net/problem/13397)         |  G4   |   ✅   | 2025-05-08 | 2025-05-13 |
 
 </details>
 
@@ -295,6 +296,7 @@ Since 2024.10.26
 |      [거짓말](https://www.acmicpc.net/problem/1043)       |  G4   |  ❌   | 2025-03-28 | 2025-04-01 |
 | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |  G3   |  ✅   | 2025-04-07 | 2025-04-12 |
 |     [줄 세우기](https://www.acmicpc.net/problem/2252)     |  G3   |  ❌   | 2025-05-07 | 2025-05-12 |
+|     [ACM Craft](https://www.acmicpc.net/problem/1005)     |  G3   |  ❌   | 2025-05-08 | 2025-05-13 |
 
 </details>
 
