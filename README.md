@@ -273,6 +273,7 @@ Since 2024.10.26
 |        [구간 나누기 2](https://www.acmicpc.net/problem/13397)         |  G4   |   ✅   | 2025-05-08 | 2025-05-13 |
 |           [피자판매](https://www.acmicpc.net/problem/2632)            |  G2   |   ✅   | 2025-05-09 | 2025-05-14 |
 |        [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209)        |  G2   |   ❌   | 2025-05-10 | 2025-05-15 |
+|         [로봇 프로젝트](https://www.acmicpc.net/problem/3649)         |  G5   |   ✅   | 2025-05-11 | 2025-05-16 |
 
 </details>
 
