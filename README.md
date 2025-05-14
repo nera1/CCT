@@ -104,7 +104,7 @@ Since 2024.10.26
 |      [토마토](https://www.acmicpc.net/problem/7569)       |  G5   |  ☑️   | 2025-02-19 |            |         |
 |     [촌수계산](https://www.acmicpc.net/problem/2644)      |  S2   | ✅☑️  | 2025-05-13 |            |         |
 |       [빙산](https://www.acmicpc.net/problem/2573)        |  G4   |  ☑️   | 2025-02-19 |            |         |
-|    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  G4   |  ❌   | 2025-02-19 | 2025-02-22 |         |
+|    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  G4   | ❌☑️  | 2025-05-14 |            |         |
 |     [알고스팟](https://www.acmicpc.net/problem/1261)      |  G4   |  ✅   | 2025-02-22 | 2025-02-25 |         |
 |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  G2   |  ☑️   | 2025-02-22 |            |         |
 |      [ABCDE](https://www.acmicpc.net/problem/13023)       |  G5   |  ❌   | 2025-02-24 | 2025-02-27 |         |
@@ -382,5 +382,6 @@ Since 2024.10.26
 |      [계단 수](https://www.acmicpc.net/problem/1562)      |  G1   |  ❌   | 2025-04-28 | 2025-05-03 |         |
 |    [오르막 수](https://www.acmicpc.net/problem/11057)     |  S1   |  ☑️   | 2025-05-03 |            |         |
 |   [회사 문화 1](https://www.acmicpc.net/problem/14267)    |  G4   |  ✅   | 2025-05-07 | 2025-05-12 |         |
+| [할로윈의 양아치](https://www.acmicpc.net/problem/20303)  |  G2   |  ✅   | 2025-05-14 | 2025-05-24 |         |
 
 </details>
