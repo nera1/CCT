@@ -322,6 +322,7 @@ Since 2024.10.26
 |    [알고스팟](https://www.acmicpc.net/problem/1261)     |  G4   |  ✅   | 2025-04-01 | 2025-04-06 |
 |  [서강그라운드](https://www.acmicpc.net/problem/14938)  |  G4   |  ✅   | 2025-04-02 | 2025-04-07 |
 |      [택배](https://www.acmicpc.net/problem/1719)       |  G3   |  ✅   | 2025-04-11 | 2025-04-16 |
+|   [가장 먼 곳](https://www.acmicpc.net/problem/22865)   |  G4   |  ✅   | 2025-05-15 | 2025-04-25 |
 
 </details>
 
