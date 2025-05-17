@@ -384,5 +384,6 @@ Since 2024.10.26
 |    [오르막 수](https://www.acmicpc.net/problem/11057)     |  S1   |  ☑️   | 2025-05-03 |            |         |
 |   [회사 문화 1](https://www.acmicpc.net/problem/14267)    |  G4   |  ✅   | 2025-05-07 | 2025-05-12 |         |
 | [할로윈의 양아치](https://www.acmicpc.net/problem/20303)  |  G2   |  ✅   | 2025-05-14 | 2025-05-24 |         |
+|      [조 짜기](https://www.acmicpc.net/problem/2229)      |  G5   |  ❌   | 2025-05-17 | 2025-05-27 |         |
 
 </details>
