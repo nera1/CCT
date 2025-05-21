@@ -107,7 +107,7 @@ Since 2024.10.26
 |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  G4   | ❌☑️  | 2025-05-14 |            |         |
 |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  G2   |  ☑️   | 2025-02-22 |            |         |
 |      [ABCDE](https://www.acmicpc.net/problem/13023)       |  G5   | ❌✅  | 2025-05-20 | 2025-05-20 |         |
-|    [인구 이동](https://www.acmicpc.net/problem/16234)     |  G4   |  ❌   | 2025-02-24 | 2025-02-27 |         |
+|    [인구 이동](https://www.acmicpc.net/problem/16234)     |  G4   | ❌☑️  | 2025-05-21 |            |         |
 |      [결혼식](https://www.acmicpc.net/problem/16234)      |  S2   |  ☑️   | 2025-03-24 |            |         |
 |    [숫자고르기](https://www.acmicpc.net/problem/2668)     |  G5   |  ❌   | 2025-04-12 | 2025-04-17 |         |
 
@@ -239,7 +239,7 @@ Since 2024.10.26
 |                                 Name                                  | Level | Stack  |    Last    |    Next    | Related |
 | :-------------------------------------------------------------------: | :---: | :----: | :--------: | :--------: | ------- |
 |          [나무 자르기](https://www.acmicpc.net/problem/2805)          |  S2   |   ☑️   | 2025-02-25 |            |         |
-|          [랜선 자르기](https://www.acmicpc.net/problem/1654)          |  S2   |   ✅   | 2025-02-25 | 2025-02-28 |         |
+|          [랜선 자르기](https://www.acmicpc.net/problem/1654)          |  S2   |  ✅✅  | 2025-05-21 | 2025-05-31 |         |
 |             [게임](https://www.acmicpc.net/problem/1654)              |  S3   |   ✅   | 2025-02-25 | 2025-02-28 |         |
 |             [예산](https://www.acmicpc.net/problem/2512)              |  S2   |   ☑️   | 2025-02-26 |            |         |
 |          [공유기 설치](https://www.acmicpc.net/problem/2110)          |  G4   |   ✅   | 2025-02-26 | 2025-03-01 |         |
@@ -386,5 +386,6 @@ Since 2024.10.26
 |      [조 짜기](https://www.acmicpc.net/problem/2229)       |  G5   |  ❌   | 2025-05-17 | 2025-05-27 |                                                          |
 |   [목장 건설하기](https://www.acmicpc.net/problem/14925)   |  G4   |  ❌   | 2025-05-19 | 2025-05-29 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |
 | [인접한 비트의 개수](https://www.acmicpc.net/problem/2698) |  G4   |  ✅   | 2025-05-20 | 2025-05-30 |                                                          |
+|      [방 번호](https://www.acmicpc.net/problem/1082)       |  G3   |  ✅   | 2025-05-21 | 2025-05-31 |                                                          |
 
 </details>
