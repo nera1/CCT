@@ -388,5 +388,6 @@ Since 2024.10.26
 |   [목장 건설하기](https://www.acmicpc.net/problem/14925)   |  G4   |  ❌   | 2025-05-19 | 2025-05-29 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |
 | [인접한 비트의 개수](https://www.acmicpc.net/problem/2698) |  G4   |  ✅   | 2025-05-20 | 2025-05-30 |                                                          |
 |      [방 번호](https://www.acmicpc.net/problem/1082)       |  G3   |  ✅   | 2025-05-21 | 2025-05-31 |                                                          |
+|    [뉴스 전하기](https://www.acmicpc.net/problem/1135)     |  G2   |  ❌   | 2025-05-25 | 2025-06-04 |                                                          |
 
 </details>
