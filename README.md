@@ -164,6 +164,7 @@ Since 2024.10.26
 |              [배](https://www.acmicpc.net/problem/1092)              |  G5   |  ❌   | 2025-04-14 | 2025-04-19 |         |
 |          [줄 세우기](https://www.acmicpc.net/problem/7570)           |  G2   |  ❌   | 2025-05-06 | 2025-05-11 |         |
 |         [풍선 맞추기](https://www.acmicpc.net/problem/11509)         |  G5   |  ❌   | 2025-05-24 | 2025-06-03 |         |
+|           [합](https://www.acmicpc.net/problem/111132509)            |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |         |
 
 </details>
 
@@ -389,5 +390,6 @@ Since 2024.10.26
 | [인접한 비트의 개수](https://www.acmicpc.net/problem/2698) |  G4   |  ✅   | 2025-05-20 | 2025-05-30 |                                                          |
 |      [방 번호](https://www.acmicpc.net/problem/1082)       |  G3   |  ✅   | 2025-05-21 | 2025-05-31 |                                                          |
 |    [뉴스 전하기](https://www.acmicpc.net/problem/1135)     |  G2   |  ❌   | 2025-05-25 | 2025-06-04 |                                                          |
+|     [최소 편집](https://www.acmicpc.net/problem/15483)     |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |                                                          |
 
 </details>
