@@ -391,5 +391,6 @@ Since 2024.10.26
 |      [방 번호](https://www.acmicpc.net/problem/1082)       |  G3   |  ✅   | 2025-05-21 | 2025-05-31 |                                                          |
 |    [뉴스 전하기](https://www.acmicpc.net/problem/1135)     |  G2   |  ❌   | 2025-05-25 | 2025-06-04 |                                                          |
 |     [최소 편집](https://www.acmicpc.net/problem/15483)     |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |                                                          |
+|   [돌다리 건너기](https://www.acmicpc.net/problem/2602)    |  G4   |  ❌   | 2025-05-27 | 2025-06-06 |                                                          |
 
 </details>
