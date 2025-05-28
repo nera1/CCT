@@ -165,7 +165,7 @@ Since 2024.10.26
 |          [줄 세우기](https://www.acmicpc.net/problem/7570)           |  G2   |  ❌   | 2025-05-06 | 2025-05-11 |         |
 |         [풍선 맞추기](https://www.acmicpc.net/problem/11509)         |  G5   |  ❌   | 2025-05-24 | 2025-06-03 |         |
 |              [합](https://www.acmicpc.net/problem/1132)              |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |         |
-|           [콘센트](https://www.acmicpc.net/problem/23843)            |  G2   |  ☑️   | 2025-05-28 |            |         |
+|           [콘센트](https://www.acmicpc.net/problem/23843)            |  G5   |  ☑️   | 2025-05-28 |            |         |
 
 </details>
 
