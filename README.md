@@ -165,6 +165,7 @@ Since 2024.10.26
 |          [줄 세우기](https://www.acmicpc.net/problem/7570)           |  G2   |  ❌   | 2025-05-06 | 2025-05-11 |         |
 |         [풍선 맞추기](https://www.acmicpc.net/problem/11509)         |  G5   |  ❌   | 2025-05-24 | 2025-06-03 |         |
 |              [합](https://www.acmicpc.net/problem/1132)              |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |         |
+|           [콘센트](https://www.acmicpc.net/problem/23843)            |  G2   |  ☑️   | 2025-05-28 |            |         |
 
 </details>
 
@@ -375,8 +376,8 @@ Since 2024.10.26
 |      [암호코드](https://www.acmicpc.net/problem/2011)      |  G5   |  ☑️   | 2025-04-21 |            |                                                          |
 |        [LCS](https://www.acmicpc.net/problem/9251)         |  G5   |  ❌   | 2025-04-21 | 2025-04-26 |                                                          |
 |       [LCS 3](https://www.acmicpc.net/problem/1958)        |  G4   |  ❌   | 2025-04-22 | 2025-04-27 |                                                          |
-|      [연속합 3](https://www.acmicpc.net/problem/1958)      |  G4   |  ❌   | 2025-04-22 | 2025-04-27 |                                                          |
-|     [연속합 2](https://www.acmicpc.net/problem/13398)      |  G5   |  ❌   | 2025-04-23 | 2025-04-28 |                                                          |
+|       [연속합](https://www.acmicpc.net/problem/1912)       |  S2   | ❌☑️  | 2025-05-28 |            |                                                          |
+|     [연속합 2](https://www.acmicpc.net/problem/13398)      |  G5   | ❌✅  | 2025-05-28 | 2025-06-07 |                                                          |
 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)  |  G5   |  ☑️   | 2025-04-23 |            |                                                          |
 |  [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)   |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |                                                          |
 |    [파일 합치기](https://www.acmicpc.net/problem/11066)    |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |                                                          |
