@@ -379,7 +379,7 @@ Since 2024.10.26
 |       [연속합](https://www.acmicpc.net/problem/1912)       |  S2   | ❌☑️  | 2025-05-28 |            |                                                          |
 |     [연속합 2](https://www.acmicpc.net/problem/13398)      |  G5   | ❌✅  | 2025-05-28 | 2025-06-07 |                                                          |
 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)  |  G5   |  ☑️   | 2025-04-23 |            |                                                          |
-|  [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)   |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |                                                          |
+|  [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)   |  G3   | ❌✅  | 2025-05-29 | 2025-06-08 |                                                          |
 |    [파일 합치기](https://www.acmicpc.net/problem/11066)    |  G3   |  ❌   | 2025-04-24 | 2025-04-29 |                                                          |
 |        [알약](https://www.acmicpc.net/problem/4811)        |  G5   |  ✅   | 2025-04-27 | 2025-05-02 |                                                          |
 |      [계단 수](https://www.acmicpc.net/problem/1562)       |  G1   |  ❌   | 2025-04-28 | 2025-05-03 |                                                          |
@@ -393,5 +393,6 @@ Since 2024.10.26
 |    [뉴스 전하기](https://www.acmicpc.net/problem/1135)     |  G2   |  ❌   | 2025-05-25 | 2025-06-04 |                                                          |
 |     [최소 편집](https://www.acmicpc.net/problem/15483)     |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |                                                          |
 |   [돌다리 건너기](https://www.acmicpc.net/problem/2602)    |  G4   |  ❌   | 2025-05-27 | 2025-06-06 |                                                          |
+|   [동전 바꿔주기](https://www.acmicpc.net/problem/2624)    |  G4   |  ✅   | 2025-05-29 | 2025-06-08 |                                                          |
 
 </details>
