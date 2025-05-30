@@ -394,5 +394,6 @@ Since 2024.10.26
 |     [최소 편집](https://www.acmicpc.net/problem/15483)     |  G3   |  ❌   | 2025-05-26 | 2025-06-05 |                                                          |
 |   [돌다리 건너기](https://www.acmicpc.net/problem/2602)    |  G4   |  ❌   | 2025-05-27 | 2025-06-06 |                                                          |
 |   [동전 바꿔주기](https://www.acmicpc.net/problem/2624)    |  G4   |  ✅   | 2025-05-29 | 2025-06-08 |                                                          |
+|  [공통 부분 문자열](https://www.acmicpc.net/problem/5582)  |  G5   |  ☑️   | 2025-05-30 |            | [LCS](https://www.acmicpc.net/problem/9251)              |
 
 </details>
