@@ -317,17 +317,18 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
-|                          Name                           | Level | Stack |    Last    |    Next    | Related |
-| :-----------------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
-|    [최단경로](https://www.acmicpc.net/problem/1753)     |  G4   |  ✅   | 2025-03-26 | 2025-03-31 |         |
-| [최소비용 구하기](https://www.acmicpc.net/problem/1916) |  G5   |  ✅   | 2025-03-26 | 2025-03-31 |         |
-|   [숨바꼭질 3](https://www.acmicpc.net/problem/13549)   |  G5   |  ❌   | 2025-03-27 | 2025-04-01 |         |
-|      [파티](https://www.acmicpc.net/problem/1238)       |  G3   |  ☑️   | 2025-03-28 |            |         |
-|    [택배 배송](https://www.acmicpc.net/problem/5972)    |  G5   |  ☑️   | 2025-03-29 |            |         |
-|    [알고스팟](https://www.acmicpc.net/problem/1261)     |  G4   | ✅☑️  | 2025-05-20 |            |         |
-|  [서강그라운드](https://www.acmicpc.net/problem/14938)  |  G4   |  ✅   | 2025-04-02 | 2025-04-07 |         |
-|      [택배](https://www.acmicpc.net/problem/1719)       |  G3   |  ✅   | 2025-04-11 | 2025-04-16 |         |
-|   [가장 먼 곳](https://www.acmicpc.net/problem/22865)   |  G4   |  ✅   | 2025-05-15 | 2025-05-25 |         |
+|                            Name                             | Level | Stack |    Last    |    Next    | Related |
+| :---------------------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
+|      [최단경로](https://www.acmicpc.net/problem/1753)       |  G4   |  ✅   | 2025-03-26 | 2025-03-31 |         |
+|   [최소비용 구하기](https://www.acmicpc.net/problem/1916)   |  G5   |  ✅   | 2025-03-26 | 2025-03-31 |         |
+|     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)     |  G5   |  ❌   | 2025-03-27 | 2025-04-01 |         |
+|        [파티](https://www.acmicpc.net/problem/1238)         |  G3   |  ☑️   | 2025-03-28 |            |         |
+|      [택배 배송](https://www.acmicpc.net/problem/5972)      |  G5   |  ☑️   | 2025-03-29 |            |         |
+|      [알고스팟](https://www.acmicpc.net/problem/1261)       |  G4   | ✅☑️  | 2025-05-20 |            |         |
+|    [서강그라운드](https://www.acmicpc.net/problem/14938)    |  G4   |  ✅   | 2025-04-02 | 2025-04-07 |         |
+|        [택배](https://www.acmicpc.net/problem/1719)         |  G3   |  ✅   | 2025-04-11 | 2025-04-16 |         |
+|     [가장 먼 곳](https://www.acmicpc.net/problem/22865)     |  G4   |  ✅   | 2025-05-15 | 2025-05-25 |         |
+| [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) |  P4   |  ❌   | 2025-06-02 | 2025-06-12 |         |
 
 </details>
 
