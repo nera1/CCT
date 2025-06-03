@@ -110,6 +110,7 @@ Since 2024.10.26
 |    [인구 이동](https://www.acmicpc.net/problem/16234)     |  G4   | ❌☑️  | 2025-05-21 |            |         |
 |      [결혼식](https://www.acmicpc.net/problem/16234)      |  S2   |  ☑️   | 2025-03-24 |            |         |
 |    [숫자고르기](https://www.acmicpc.net/problem/2668)     |  G5   |  ❌   | 2025-04-12 | 2025-04-17 |         |
+|    [텀 프로젝트](https://www.acmicpc.net/problem/9466)    |  G3   |  ❌   | 2025-06-03 | 2025-06-13 |         |
 
 </details>
 
