@@ -170,6 +170,7 @@ Since 2024.10.26
 |         [수열의 점수](https://www.acmicpc.net/problem/15553)         |  G5   |  ☑️   | 2025-06-10 |            |         |
 |           [포스택](https://www.acmicpc.net/problem/25556)            |  G5   |  ☑️   | 2025-06-12 |            |         |
 |            [모독](https://www.acmicpc.net/problem/16678)             |  G5   |  ☑️   | 2025-06-12 |            |         |
+|             [밥](https://www.acmicpc.net/problem/23559)              |  G5   |  ❌   | 2025-06-16 | 2025-06-26 |         |
 
 </details>
 
