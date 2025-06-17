@@ -171,6 +171,7 @@ Since 2024.10.26
 |           [포스택](https://www.acmicpc.net/problem/25556)            |  G5   |  ☑️   | 2025-06-12 |            |         |
 |            [모독](https://www.acmicpc.net/problem/16678)             |  G5   |  ☑️   | 2025-06-12 |            |         |
 |             [밥](https://www.acmicpc.net/problem/23559)              |  G5   |  ❌   | 2025-06-16 | 2025-06-26 |         |
+|          [댄스 파티](https://www.acmicpc.net/problem/2831)           |  G4   |  ✅   | 2025-06-17 | 2025-06-27 |         |
 
 </details>
 
