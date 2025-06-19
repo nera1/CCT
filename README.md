@@ -311,6 +311,7 @@ Since 2024.10.26
 |     [ACM Craft](https://www.acmicpc.net/problem/1005)     |  G3   |  ❌   | 2025-05-08 | 2025-05-13 |                                                   |
 |  [전기가 부족해](https://www.acmicpc.net/problem/10423)   |  G3   |  ✅   | 2025-05-12 | 2025-05-22 |                                                   |
 |   [음악프로그램](https://www.acmicpc.net/problem/2623)    |  G3   |  ✅   | 2025-05-13 | 2025-05-23 | [줄 세우기](https://www.acmicpc.net/problem/2252) |
+|      [물대기](https://www.acmicpc.net/problem/1368)       |  G2   |  ❌   | 2025-06-19 | 2025-06-29 |                                                   |
 
 </details>
 
