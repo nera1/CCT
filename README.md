@@ -407,5 +407,6 @@ Since 2024.10.26
 |     [극장 좌석](https://www.acmicpc.net/problem/2302)      |  G5   |  ✅   | 2025-05-31 | 2025-06-10 |                                                          |
 |   [팰린드롬 분할](https://www.acmicpc.net/problem/1509)    |  G1   |  ✅   | 2025-06-09 | 2025-06-19 |                                                          |
 |      [구슬게임](https://www.acmicpc.net/problem/2600)      |  G4   |  ❌   | 2025-06-23 | 2025-07-03 |                                                          |
+|    [레벨 햄버거](https://www.acmicpc.net/problem/16974)    |  G5   |  ❌   | 2025-06-24 | 2025-07-04 |                                                          |
 
 </details>
