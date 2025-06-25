@@ -172,6 +172,7 @@ Since 2024.10.26
 |            [모독](https://www.acmicpc.net/problem/16678)             |  G5   |  ☑️   | 2025-06-12 |            |         |
 |             [밥](https://www.acmicpc.net/problem/23559)              |  G5   |  ❌   | 2025-06-16 | 2025-06-26 |         |
 |          [댄스 파티](https://www.acmicpc.net/problem/2831)           |  G4   |  ✅   | 2025-06-17 | 2025-06-27 |         |
+|        [시간 관리하기](https://www.acmicpc.net/problem/6068)         |  G5   |  ✅   | 2025-06-25 | 2025-07-05 |         |
 
 </details>
 
