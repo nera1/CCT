@@ -410,5 +410,7 @@ Since 2024.10.26
 |      [구슬게임](https://www.acmicpc.net/problem/2600)      |  G4   |  ❌   | 2025-06-23 | 2025-07-03 |                                                          |
 |    [레벨 햄버거](https://www.acmicpc.net/problem/16974)    |  G5   |  ❌   | 2025-06-24 | 2025-07-04 |                                                          |
 |  [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)   |  G4   |  ✅   | 2025-06-26 | 2025-07-06 |                                                          |
+| [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |  G3   |  ❌   | 2025-06-29 | 2025-07-09 |                                                          |
+|        [여행](https://www.acmicpc.net/problem/2157)        |  G4   |  ❌   | 2025-06-30 | 2025-07-10 |                                                          |
 
 </details>
