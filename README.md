@@ -337,6 +337,7 @@ Since 2024.10.26
 |        [택배](https://www.acmicpc.net/problem/1719)         |  G3   |  ✅   | 2025-04-11 | 2025-04-16 |         |
 |     [가장 먼 곳](https://www.acmicpc.net/problem/22865)     |  G4   |  ✅   | 2025-05-15 | 2025-05-25 |         |
 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) |  P4   |  ❌   | 2025-06-02 | 2025-06-12 |         |
+|    [네트워크 복구](https://www.acmicpc.net/problem/2211)    |  G2   |  ✅   | 2025-07-01 | 2025-07-11 |         |
 
 </details>
 
