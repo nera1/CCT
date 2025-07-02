@@ -284,6 +284,7 @@ Since 2024.10.26
 |        [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209)        |  G2   |   ❌   | 2025-05-10 | 2025-05-15 |         |
 |         [로봇 프로젝트](https://www.acmicpc.net/problem/3649)         |  G5   |   ✅   | 2025-05-11 | 2025-05-16 |         |
 |         [통나무 자르기](https://www.acmicpc.net/problem/1114)         |  G1   |   ✅   | 2025-06-01 | 2025-06-11 |         |
+|          [작은 벌점](https://www.acmicpc.net/problem/16498)           |  G5   |   ✅   | 2025-07-02 | 2025-07-12 |         |
 
 </details>
 
