@@ -416,5 +416,6 @@ Since 2024.10.26
 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |  G3   |  ❌   | 2025-06-29 | 2025-07-09 |                                                          |
 |   [2의 멱수의 합](https://www.acmicpc.net/problem/2410)    |  G5   |  ☑️   | 2025-07-03 | 2025-07-13 |                                                          |
 |     [소수 화폐](https://www.acmicpc.net/problem/16400)     |  G5   |  ❌   | 2025-07-06 | 2025-07-16 |                                                          |
+|       [개근상](https://www.acmicpc.net/problem/1563)       |  G4   |  ❌   | 2025-07-07 | 2025-07-17 |                                                          |
 
 </details>
