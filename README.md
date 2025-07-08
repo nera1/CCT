@@ -417,5 +417,6 @@ Since 2024.10.26
 |   [2의 멱수의 합](https://www.acmicpc.net/problem/2410)    |  G5   |  ☑️   | 2025-07-03 | 2025-07-13 |                                                          |
 |     [소수 화폐](https://www.acmicpc.net/problem/16400)     |  G5   |  ❌   | 2025-07-06 | 2025-07-16 |                                                          |
 |       [개근상](https://www.acmicpc.net/problem/1563)       |  G4   |  ❌   | 2025-07-07 | 2025-07-17 |                                                          |
+|     [점수따먹기](https://www.acmicpc.net/problem/1749)     |  G4   |  ❌   | 2025-07-08 | 2025-07-18 |                                                          |
 
 </details>
