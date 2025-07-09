@@ -174,6 +174,7 @@ Since 2024.10.26
 |          [댄스 파티](https://www.acmicpc.net/problem/2831)           |  G4   |  ✅   | 2025-06-17 | 2025-06-27 |         |
 |        [시간 관리하기](https://www.acmicpc.net/problem/6068)         |  G5   |  ✅   | 2025-06-25 | 2025-07-05 |         |
 |        [부분 삼각 수열](https://www.acmicpc.net/problem/1548)        |  G5   |  ✅   | 2025-07-04 | 2025-07-14 |         |
+|            [강의실](https://www.acmicpc.net/problem/1374)            |  G5   |  ✅   | 2025-07-09 | 2025-07-19 |         |
 
 </details>
 
