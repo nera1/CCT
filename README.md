@@ -419,5 +419,6 @@ Since 2024.10.26
 |     [소수 화폐](https://www.acmicpc.net/problem/16400)     |  G5   |  ❌   | 2025-07-06 | 2025-07-16 |                                                          |
 |       [개근상](https://www.acmicpc.net/problem/1563)       |  G4   |  ❌   | 2025-07-07 | 2025-07-17 |                                                          |
 |     [점수따먹기](https://www.acmicpc.net/problem/1749)     |  G4   |  ❌   | 2025-07-08 | 2025-07-18 |                                                          |
+|   [플레이리스트](https://www.acmicpc.net/problem/12872)    |  G1   |  ❌   | 2025-07-10 | 2025-07-20 |                                                          |
 
 </details>
