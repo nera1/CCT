@@ -112,6 +112,7 @@ Since 2024.10.26
 |    [숫자고르기](https://www.acmicpc.net/problem/2668)     |  G5   |  ❌   | 2025-04-12 | 2025-04-17 |         |
 |    [텀 프로젝트](https://www.acmicpc.net/problem/9466)    |  G3   |  ❌   | 2025-06-03 | 2025-06-13 |         |
 |     [연구소 2](https://www.acmicpc.net/problem/17141)     |  G4   |  ❌   | 2025-07-12 | 2025-07-22 |         |
+|        [불!](https://www.acmicpc.net/problem/4179)        |  G3   |  ✅   | 2025-07-13 | 2025-07-23 |         |
 
 </details>
 
