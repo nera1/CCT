@@ -25,6 +25,7 @@ Since 2024.10.26
 |                [Tree](#tree)                |        |      |
 |            [Dijkstra](#dijkstra)            |        |      |
 |      [Floyd-Warshall](#floyd-warshall)      |        |      |
+|          [Prefix Sum](#prefix-sum)          |        |      |
 
 ## Symbols
 
@@ -425,5 +426,20 @@ Since 2024.10.26
 |     [점수따먹기](https://www.acmicpc.net/problem/1749)     |  G4   |  ❌   | 2025-07-08 | 2025-07-18 |                                                          |
 |   [플레이리스트](https://www.acmicpc.net/problem/12872)    |  G1   |  ❌   | 2025-07-10 | 2025-07-20 |                                                          |
 |  [토너먼트 만들기](https://www.acmicpc.net/problem/2262)   |  G4   |  ❌   | 2025-07-15 | 2025-07-25 |                                                          |
+
+</details>
+
+### Prefix Sum
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                        Name                        | Level | Stack |    Last    |    Next    | Related |
+| :------------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
+| [나머지 합](https://www.acmicpc.net/problem/10986) |  G3   |  ✅   | 2025-07-16 | 2025-07-26 |         |
 
 </details>
