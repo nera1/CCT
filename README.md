@@ -219,6 +219,10 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
+|                      Name                       | Level | Stack |    Last    | Next | Related |
+| :---------------------------------------------: | :---: | :---: | :--------: | :--: | ------- |
+| [선 긋기](https://www.acmicpc.net/problem/2170) |  G5   |  ☑️   | 2025-07-17 |      |         |
+
 </details>
 
 ### Simulation
