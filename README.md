@@ -26,6 +26,7 @@ Since 2024.10.26
 |            [Dijkstra](#dijkstra)            |        |      |
 |      [Floyd-Warshall](#floyd-warshall)      |        |      |
 |          [Prefix Sum](#prefix-sum)          |        |      |
+|        [Segment Tree](#segment-tree)        |        |      |
 
 ## Symbols
 
@@ -445,5 +446,20 @@ Since 2024.10.26
 |                        Name                        | Level | Stack |    Last    |    Next    | Related |
 | :------------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
 | [나머지 합](https://www.acmicpc.net/problem/10986) |  G3   |  ✅   | 2025-07-16 | 2025-07-26 |         |
+
+</details>
+
+### Segment Tree
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                          Name                          | Level | Stack |    Last    |    Next    | Related |
+| :----------------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
+| [구간 합 구하기](https://www.acmicpc.net/problem/2042) |  G1   |  ❌   | 2025-07-18 | 2025-07-28 |         |
 
 </details>
