@@ -373,6 +373,7 @@ Since 2024.10.26
 |           [운동](https://www.acmicpc.net/problem/1956)           |  G4   |  ☑️   | 2025-04-04 |            |         |
 |        [구슬 찾기](https://www.acmicpc.net/problem/2617)         |  G4   |  ☑️   | 2025-04-05 |            |         |
 |         [회장뽑기](https://www.acmicpc.net/problem/2660)         |  G5   |  ✅   | 2025-05-05 | 2025-05-10 |         |
+|           [역사](https://www.acmicpc.net/problem/1613)           |  G3   |  ❌   | 2025-07-20 | 2025-07-30 |         |
 
 </details>
 
