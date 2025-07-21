@@ -432,6 +432,7 @@ Since 2024.10.26
 |     [점수따먹기](https://www.acmicpc.net/problem/1749)     |  G4   |  ❌   | 2025-07-08 | 2025-07-18 |                                                          |
 |   [플레이리스트](https://www.acmicpc.net/problem/12872)    |  G1   |  ❌   | 2025-07-10 | 2025-07-20 |                                                          |
 |  [토너먼트 만들기](https://www.acmicpc.net/problem/2262)   |  G4   |  ❌   | 2025-07-15 | 2025-07-25 |                                                          |
+|        [게임](https://www.acmicpc.net/problem/2262)        |  G2   |  ✅   | 2025-07-21 | 2025-07-31 |                                                          |
 
 </details>
 
