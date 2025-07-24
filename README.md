@@ -116,6 +116,7 @@ Since 2024.10.26
 |     [연구소 2](https://www.acmicpc.net/problem/17141)     |  G4   |  ❌   | 2025-07-12 | 2025-07-22 |         |
 |        [불!](https://www.acmicpc.net/problem/4179)        |  G3   |  ✅   | 2025-07-13 | 2025-07-23 |         |
 |    [숨바꼭질 2](https://www.acmicpc.net/problem/12851)    |  G4   |  ✅   | 2025-07-22 | 2025-08-01 |         |
+|       [퍼즐](https://www.acmicpc.net/problem/1525)        |  G2   |  ❌   | 2025-07-24 | 2025-08-03 |         |
 
 </details>
 
