@@ -184,6 +184,7 @@ Since 2024.10.26
 |        [부분 삼각 수열](https://www.acmicpc.net/problem/1548)        |  G5   |  ✅   | 2025-07-04 | 2025-07-14 |         |
 |            [강의실](https://www.acmicpc.net/problem/1374)            |  G5   |  ✅   | 2025-07-09 | 2025-07-19 |         |
 |           [강의실 2](https://www.acmicpc.net/problem/1374)           |  G3   |  ❌   | 2025-07-26 | 2025-08-05 |         |
+|           [특별상](https://www.acmicpc.net/problem/25391)            |  G5   |  ✅   | 2025-07-28 | 2025-08-07 |         |
 
 </details>
 
