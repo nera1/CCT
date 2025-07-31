@@ -334,6 +334,7 @@ Since 2024.10.26
 |   [음악프로그램](https://www.acmicpc.net/problem/2623)    |  G3   |  ✅   | 2025-05-13 | 2025-05-23 | [줄 세우기](https://www.acmicpc.net/problem/2252) |
 |      [물대기](https://www.acmicpc.net/problem/1368)       |  G2   |  ❌   | 2025-06-19 | 2025-06-29 |                                                   |
 |       [해킹](https://www.acmicpc.net/problem/10282)       |  G4   |  ☑️   | 2025-07-14 |            |                                                   |
+|       [세부](https://www.acmicpc.net/problem/13905)       |  G3   |  ✅   | 2025-07-31 | 2025-07-10 |                                                   |
 
 </details>
 
