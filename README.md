@@ -185,6 +185,7 @@ Since 2024.10.26
 |            [강의실](https://www.acmicpc.net/problem/1374)            |  G5   |  ✅   | 2025-07-09 | 2025-07-19 |         |
 |           [강의실 2](https://www.acmicpc.net/problem/1374)           |  G3   |  ❌   | 2025-07-26 | 2025-08-05 |         |
 |           [특별상](https://www.acmicpc.net/problem/25391)            |  G5   |  ✅   | 2025-07-28 | 2025-08-07 |         |
+|             [저울](https://www.acmicpc.net/problem/2437)             |  G2   |  ✅   | 2025-08-02 | 2025-08-12 |         |
 
 </details>
 
@@ -444,6 +445,7 @@ Since 2024.10.26
 |        [게임](https://www.acmicpc.net/problem/2262)        |  G2   |  ✅   | 2025-07-21 | 2025-07-31 |                                                          |
 |       [개업](https://www.acmicpc.net/problem/13910)        |  G5   |  ✅   | 2025-07-29 | 2025-08-08 |                                                          |
 |      [디저트](https://www.acmicpc.net/problem/17953)       |  G5   |  ☑️   | 2025-08-01 |            |                                                          |
+|     [벼락치기](https://www.acmicpc.net/problem/29704)      |  G5   |  ☑️   | 2025-08-03 |            |                                                          |
 
 </details>
 
