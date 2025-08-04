@@ -119,6 +119,7 @@ Since 2024.10.26
 |       [퍼즐](https://www.acmicpc.net/problem/1525)        |  G2   |  ❌   | 2025-07-24 | 2025-08-03 |         |
 |       [환승](https://www.acmicpc.net/problem/5214)        |  G2   |  ❌   | 2025-07-25 | 2025-08-04 |         |
 |      [불켜기](https://www.acmicpc.net/problem/11967)      |  G2   |  ❌   | 2025-07-26 | 2025-08-05 |         |
+|       [교환](https://www.acmicpc.net/problem/1039)        |  G2   |  ❌   | 2025-08-04 | 2025-08-14 |         |
 
 </details>
 
