@@ -120,6 +120,7 @@ Since 2024.10.26
 |       [환승](https://www.acmicpc.net/problem/5214)        |  G2   |  ❌   | 2025-07-25 | 2025-08-04 |         |
 |      [불켜기](https://www.acmicpc.net/problem/11967)      |  G2   |  ❌   | 2025-07-26 | 2025-08-05 |         |
 |       [교환](https://www.acmicpc.net/problem/1039)        |  G2   |  ❌   | 2025-08-04 | 2025-08-14 |         |
+|   [색칠하기](https://www.acmicpc.net/problem/색칠하기)    |  G5   |  ❌   | 2025-08-05 | 2025-08-15 |         |
 
 </details>
 
