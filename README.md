@@ -338,6 +338,7 @@ Since 2024.10.26
 |      [물대기](https://www.acmicpc.net/problem/1368)       |  G2   |  ❌   | 2025-06-19 | 2025-06-29 |                                                   |
 |       [해킹](https://www.acmicpc.net/problem/10282)       |  G4   |  ☑️   | 2025-07-14 |            |                                                   |
 |       [세부](https://www.acmicpc.net/problem/13905)       |  G3   |  ✅   | 2025-07-31 | 2025-07-10 |                                                   |
+|       [Tree](https://www.acmicpc.net/problem/13244)       |  G4   |  ✅   | 2025-08-06 | 2025-08-16 |                                                   |
 
 </details>
 
