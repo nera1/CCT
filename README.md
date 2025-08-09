@@ -365,6 +365,7 @@ Since 2024.10.26
 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) |  P4   |  ❌   | 2025-06-02 | 2025-06-12 |         |
 |    [네트워크 복구](https://www.acmicpc.net/problem/2211)    |  G2   |  ✅   | 2025-07-01 | 2025-07-11 |         |
 |     [집 구하기](https://www.acmicpc.net/problem/13911)      |  G2   |  ✅   | 2025-08-07 | 2025-08-17 |         |
+|     [배열 정렬](https://www.acmicpc.net/problem/28707)      |  G1   |  ✅   | 2025-08-08 | 2025-08-18 |         |
 
 </details>
 
@@ -450,6 +451,7 @@ Since 2024.10.26
 |       [개업](https://www.acmicpc.net/problem/13910)        |  G5   |  ✅   | 2025-07-29 | 2025-08-08 |                                                          |
 |      [디저트](https://www.acmicpc.net/problem/17953)       |  G5   |  ☑️   | 2025-08-01 |            |                                                          |
 |     [벼락치기](https://www.acmicpc.net/problem/29704)      |  G5   |  ☑️   | 2025-08-03 |            |                                                          |
+|        [로또](https://www.acmicpc.net/problem/2758)        |  G4   |  ☑️   | 2025-08-09 |            |                                                          |
 
 </details>
 
