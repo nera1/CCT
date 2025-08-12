@@ -339,6 +339,7 @@ Since 2024.10.26
 |       [해킹](https://www.acmicpc.net/problem/10282)       |  G4   |  ☑️   | 2025-07-14 |            |                                                   |
 |       [세부](https://www.acmicpc.net/problem/13905)       |  G3   |  ✅   | 2025-07-31 | 2025-07-10 |                                                   |
 |       [Tree](https://www.acmicpc.net/problem/13244)       |  G4   |  ✅   | 2025-08-06 | 2025-08-16 |                                                   |
+|      [친구비](https://www.acmicpc.net/problem/16562)      |  G4   |  ✅   | 2025-08-10 | 2025-08-20 |                                                   |
 
 </details>
 
@@ -452,6 +453,8 @@ Since 2024.10.26
 |      [디저트](https://www.acmicpc.net/problem/17953)       |  G5   |  ☑️   | 2025-08-01 |            |                                                          |
 |     [벼락치기](https://www.acmicpc.net/problem/29704)      |  G5   |  ☑️   | 2025-08-03 |            |                                                          |
 |        [로또](https://www.acmicpc.net/problem/2758)        |  G4   |  ☑️   | 2025-08-09 |            |                                                          |
+|      [줄임말](https://www.acmicpc.net/problem/20191)       |  G2   |  ❌   | 2025-08-11 | 2025-08-21 |                                                          |
+|        [동전](https://www.acmicpc.net/problem/2091)        |  G2   |  ❌   | 2025-08-12 | 2025-08-22 |                                                          |
 
 </details>
 
