@@ -457,6 +457,7 @@ Since 2024.10.26
 |        [로또](https://www.acmicpc.net/problem/2758)        |  G4   |  ☑️   | 2025-08-09 |            |                                                          |
 |      [줄임말](https://www.acmicpc.net/problem/20191)       |  G2   |  ❌   | 2025-08-11 | 2025-08-21 |                                                          |
 |        [동전](https://www.acmicpc.net/problem/2091)        |  G2   |  ❌   | 2025-08-12 | 2025-08-22 |                                                          |
+|     [럭키 세븐](https://www.acmicpc.net/problem/28706)     |  G5   |  ☑️   | 2025-08-17 |            |                                                          |
 
 </details>
 
