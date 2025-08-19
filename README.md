@@ -309,6 +309,7 @@ Since 2024.10.26
 |          [두 수의 합](https://www.acmicpc.net/problem/9024)           |  G5   |   ✅   | 2025-07-11 | 2025-07-21 |         |
 |           [카누 선수](https://www.acmicpc.net/problem/9007)           |  G2   |   ☑️   | 2025-07-23 |            |         |
 |        [문자열 잘라내기](https://www.acmicpc.net/problem/2866)        |  G5   |   ☑️   | 2025-07-30 |            |         |
+|           [줄다리기](https://www.acmicpc.net/problem/31444)           |  G1   |   ❌   | 2025-08-19 | 2025-08-29 |         |
 
 </details>
 
