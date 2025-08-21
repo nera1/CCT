@@ -344,6 +344,7 @@ Since 2024.10.26
 |       [세부](https://www.acmicpc.net/problem/13905)       |  G3   |  ✅   | 2025-07-31 | 2025-07-10 |                                                   |
 |       [Tree](https://www.acmicpc.net/problem/13244)       |  G4   |  ✅   | 2025-08-06 | 2025-08-16 |                                                   |
 |      [친구비](https://www.acmicpc.net/problem/16562)      |  G4   |  ✅   | 2025-08-10 | 2025-08-20 |                                                   |
+| [닭싸움 팀 정하기](https://www.acmicpc.net/problem/1765)  |  G2   |  ☑️   | 2025-08-21 | 2025-08-31 |                                                   |
 
 </details>
 
