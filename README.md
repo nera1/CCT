@@ -190,6 +190,7 @@ Since 2024.10.26
 |           [특별상](https://www.acmicpc.net/problem/25391)            |  G5   |  ✅   | 2025-07-28 | 2025-08-07 |         |
 |             [저울](https://www.acmicpc.net/problem/2437)             |  G2   |  ✅   | 2025-08-02 | 2025-08-12 |         |
 |            [수업](https://www.acmicpc.net/problem/19700)             |  G1   |  ❌   | 2025-08-18 | 2025-08-28 |         |
+|         [연료 채우기](https://www.acmicpc.net/problem/1826)          |  G2   |  ❌   | 2025-09-07 | 2025-09-17 |         |
 
 </details>
 
