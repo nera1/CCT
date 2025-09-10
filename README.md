@@ -312,6 +312,7 @@ Since 2024.10.26
 |           [카누 선수](https://www.acmicpc.net/problem/9007)           |  G2   |   ☑️   | 2025-07-23 |            |         |
 |        [문자열 잘라내기](https://www.acmicpc.net/problem/2866)        |  G5   |   ☑️   | 2025-07-30 |            |         |
 |           [줄다리기](https://www.acmicpc.net/problem/31444)           |  G1   |   ❌   | 2025-08-19 | 2025-08-29 |         |
+|            [전시장](https://www.acmicpc.net/problem/2515)             |  G2   |   ❌   | 2025-09-10 | 2025-09-20 |         |
 
 </details>
 
