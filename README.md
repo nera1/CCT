@@ -378,7 +378,7 @@ Since 2024.10.26
 |    [네트워크 복구](https://www.acmicpc.net/problem/2211)    |  G2   |  ✅   | 2025-07-01 | 2025-07-11 |         |
 |     [집 구하기](https://www.acmicpc.net/problem/13911)      |  G2   |  ✅   | 2025-08-07 | 2025-08-17 |         |
 |     [배열 정렬](https://www.acmicpc.net/problem/28707)      |  G1   |  ✅   | 2025-08-08 | 2025-08-18 |         |
-|      [두 로봇](https://www.acmicpc.net/problem/15971)       |  G4   |  ☑️   | 2025-10-07 | 2025-10-17 |         |
+|      [두 로봇](https://www.acmicpc.net/problem/15971)       |  G4   |  ☑️   | 2025-10-07 |            |         |
 
 </details>
 
@@ -404,6 +404,7 @@ Since 2024.10.26
 |         [회장뽑기](https://www.acmicpc.net/problem/2660)         |  G5   |  ✅   | 2025-05-05 | 2025-05-10 |         |
 |           [역사](https://www.acmicpc.net/problem/1613)           |  G3   |  ❌   | 2025-07-20 | 2025-07-30 |         |
 |         [회의준비](https://www.acmicpc.net/problem/2610)         |  G2   |  ☑️   | 2025-08-13 |            |         |
+|    [가운데에서 만나기](https://www.acmicpc.net/problem/21940)    |  G4   |  ☑️   | 2025-10-11 |            |         |
 
 </details>
 
