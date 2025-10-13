@@ -379,6 +379,7 @@ Since 2024.10.26
 |     [집 구하기](https://www.acmicpc.net/problem/13911)      |  G2   |  ✅   | 2025-08-07 | 2025-08-17 |         |
 |     [배열 정렬](https://www.acmicpc.net/problem/28707)      |  G1   |  ✅   | 2025-08-08 | 2025-08-18 |         |
 |      [두 로봇](https://www.acmicpc.net/problem/15971)       |  G4   |  ☑️   | 2025-10-07 |            |         |
+|     [군사 이동](https://www.acmicpc.net/problem/11085)      |  G3   |  ☑️   | 2025-10-13 |            |         |
 
 </details>
 
