@@ -123,6 +123,7 @@ Since 2024.10.26
 |     [색칠하기](https://www.acmicpc.net/problem/13265)     |  G5   |  ❌   | 2025-08-05 | 2025-08-15 |         |
 |       [물통](https://www.acmicpc.net/problem/14867)       |  G2   |  ☑️   | 2025-08-15 |            |         |
 | [DFS 스페셜 저지](https://www.acmicpc.net/problem/16964)  |  G3   |  ❌   | 2025-09-21 | 2025-09-30 |         |
+|      [팀배분](https://www.acmicpc.net/problem/1953)       |  G4   |  ☑️   | 2025-09-16 |            |         |
 
 </details>
 
