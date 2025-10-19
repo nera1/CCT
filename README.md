@@ -194,6 +194,7 @@ Since 2024.10.26
 |            [수업](https://www.acmicpc.net/problem/19700)             |  G1   |  ❌   | 2025-08-18 | 2025-08-28 |         |
 |         [연료 채우기](https://www.acmicpc.net/problem/1826)          |  G2   |  ❌   | 2025-09-07 | 2025-09-17 |         |
 |            [철로](https://www.acmicpc.net/problem/13334)             |  G2   |  ❌   | 2025-09-15 | 2025-09-25 |         |
+|          [전화 복구](https://www.acmicpc.net/problem/2911)           |  G1   |  ☑️   | 2025-10-12 | 2025-10-22 |         |
 
 </details>
 
