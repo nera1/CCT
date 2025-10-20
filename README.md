@@ -318,7 +318,7 @@ Since 2024.10.26
 |           [줄다리기](https://www.acmicpc.net/problem/31444)           |  G1   |   ❌   | 2025-08-19 | 2025-08-29 |         |
 |            [전시장](https://www.acmicpc.net/problem/2515)             |  G2   |   ❌   | 2025-09-10 | 2025-09-20 |         |
 |         [중복 없는 수](https://www.acmicpc.net/problem/11037)         |  G4   |   ☑️   | 2025-10-08 | 2025-10-18 |         |
-|             [전구](https://www.acmicpc.net/problem/2550)              |  G3   |   ❌   | 2025-10-17 | 2025-10-27 |         |
+|             [전구](https://www.acmicpc.net/problem/2550)              |  G3   |  ❌❌  | 2025-10-17 | 2025-10-27 |         |
 
 </details>
 
