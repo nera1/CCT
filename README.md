@@ -477,6 +477,7 @@ Since 2024.10.26
 |        [동전](https://www.acmicpc.net/problem/2091)        |  G2   |  ❌   | 2025-08-12 | 2025-08-22  |                                                          |
 |     [럭키 세븐](https://www.acmicpc.net/problem/28706)     |  G5   |  ☑️   | 2025-08-17 |             |                                                          |
 |       [괄호](https://www.acmicpc.net/problem/10422)        |  G4   |  ❌   | 2025-09-29 | 2025-10- 09 |                                                          |
+|  [최고의 팀 만들기](https://www.acmicpc.net/problem/1633)  |  G4   |  ❌   | 2025-10-23 | 2025-11- 01 |                                                          |
 
 </details>
 
