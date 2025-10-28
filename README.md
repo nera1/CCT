@@ -480,6 +480,7 @@ Since 2024.10.26
 |       [괄호](https://www.acmicpc.net/problem/10422)        |  G4   |  ❌   | 2025-09-29 | 2025-10-09 |                                                          |
 |  [최고의 팀 만들기](https://www.acmicpc.net/problem/1633)  |  G4   |  ❌   | 2025-10-23 | 2025-11-01 |                                                          |
 |       [유전자](https://www.acmicpc.net/problem/2306)       |  G3   |  ❌   | 2025-10-26 | 2025-11-05 |                                                          |
+|     [배수 공사](https://www.acmicpc.net/problem/15817)     |  G4   |  ☑️   | 2025-10-02 |            |                                                          |
 
 </details>
 
