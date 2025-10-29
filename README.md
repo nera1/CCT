@@ -467,7 +467,7 @@ Since 2024.10.26
 |     [소수 화폐](https://www.acmicpc.net/problem/16400)     |  G5   |  ❌   | 2025-07-06 | 2025-07-16 |                                                          |
 |       [개근상](https://www.acmicpc.net/problem/1563)       |  G4   |  ❌   | 2025-07-07 | 2025-07-17 |                                                          |
 |     [점수따먹기](https://www.acmicpc.net/problem/1749)     |  G4   |  ❌   | 2025-07-08 | 2025-07-18 |                                                          |
-|   [플레이리스트](https://www.acmicpc.net/problem/12872)    |  G1   |  ❌   | 2025-07-10 | 2025-07-20 |                                                          |
+|   [플레이리스트](https://www.acmicpc.net/problem/12872)    |  G1   | ❌❌  | 2025-07-10 | 2025-07-20 |                                                          |
 |  [토너먼트 만들기](https://www.acmicpc.net/problem/2262)   |  G4   |  ❌   | 2025-07-15 | 2025-07-25 |                                                          |
 |        [게임](https://www.acmicpc.net/problem/2262)        |  G2   |  ✅   | 2025-07-21 | 2025-07-31 |                                                          |
 |       [개업](https://www.acmicpc.net/problem/13910)        |  G5   |  ✅   | 2025-07-29 | 2025-08-08 |                                                          |
