@@ -448,7 +448,7 @@ Since 2024.10.26
 |     [오르막 수](https://www.acmicpc.net/problem/11057)     |  S1   |  ☑️   | 2025-05-03 |            |                                                          |
 |    [회사 문화 1](https://www.acmicpc.net/problem/14267)    |  G4   |  ✅   | 2025-05-07 | 2025-05-12 |                                                          |
 |  [할로윈의 양아치](https://www.acmicpc.net/problem/20303)  |  G2   |  ✅   | 2025-05-14 | 2025-05-24 |                                                          |
-|      [조 짜기](https://www.acmicpc.net/problem/2229)       |  G5   |  ❌   | 2025-05-17 | 2025-05-27 |                                                          |
+|      [조 짜기](https://www.acmicpc.net/problem/2229)       |  G5   | ❌❌  | 2025-05-17 | 2025-05-27 |                                                          |
 |   [목장 건설하기](https://www.acmicpc.net/problem/14925)   |  G4   |  ❌   | 2025-05-19 | 2025-05-29 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |
 | [인접한 비트의 개수](https://www.acmicpc.net/problem/2698) |  G4   |  ✅   | 2025-05-20 | 2025-05-30 |                                                          |
 |      [방 번호](https://www.acmicpc.net/problem/1082)       |  G3   |  ✅   | 2025-05-21 | 2025-05-31 |                                                          |
