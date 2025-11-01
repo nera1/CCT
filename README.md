@@ -386,6 +386,7 @@ Since 2024.10.26
 |      [두 로봇](https://www.acmicpc.net/problem/15971)       |  G4   |  ☑️   | 2025-10-07 |            |         |
 |     [군사 이동](https://www.acmicpc.net/problem/11085)      |  G3   |  ☑️   | 2025-10-13 |            |         |
 |       [예쁜수](https://www.acmicpc.net/problem/25958)       |  G4   |  ☑️   | 2025-10-16 |            |         |
+|       [백도어](https://www.acmicpc.net/problem/17396)       |  G5   |  ✅   | 2025-11-01 | 2025-11-11 |         |
 
 </details>
 
