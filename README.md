@@ -320,6 +320,7 @@ Since 2024.10.26
 |         [중복 없는 수](https://www.acmicpc.net/problem/11037)         |  G4   |    ☑️    | 2025-10-08 | 2025-10-18 |         |
 |             [전구](https://www.acmicpc.net/problem/2550)              |  G3   | ❌❌❌❌ | 2025-10-17 | 2025-10-27 |         |
 |          [생일 선물](https://www.acmicpc.net/problem/12892)           |  G5   |    ☑️    | 2025-10-10 |            |         |
+|          [누적 거리](https://www.acmicpc.net/problem/22345)           |  G2   |    ❌    | 2025-11-02 | 2025-11-12 |         |
 
 </details>
 
