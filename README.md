@@ -216,6 +216,10 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
+|                       Name                        | Level | Stack |    Last    |    Next    | Related |
+| :-----------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
+| [숫자 게임](https://www.acmicpc.net/problem/2923) |  G1   |  ❌   | 2025-11-14 | 2025-11-24 |         |
+
 </details>
 
 ### Stack
