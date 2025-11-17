@@ -195,6 +195,7 @@ Since 2024.10.26
 |         [연료 채우기](https://www.acmicpc.net/problem/1826)          |  G2   |  ❌   | 2025-09-07 | 2025-09-17 |         |
 |            [철로](https://www.acmicpc.net/problem/13334)             |  G2   |  ❌   | 2025-09-15 | 2025-09-25 |         |
 |          [전화 복구](https://www.acmicpc.net/problem/2911)           |  G1   |  ☑️   | 2025-10-12 | 2025-10-22 |         |
+|         [최솟값 찾기](https://www.acmicpc.net/problem/11003)         |  P5   |  ❌   | 2025-11-17 | 2025-11-27 |         |
 
 </details>
 
