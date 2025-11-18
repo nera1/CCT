@@ -27,6 +27,7 @@ Since 2024.10.26
 |      [Floyd-Warshall](#floyd-warshall)      |        |      |
 |          [Prefix Sum](#prefix-sum)          |        |      |
 |        [Segment Tree](#segment-tree)        |        |      |
+|          [Union Find](#union-find)          |        |      |
 
 ## Symbols
 
@@ -519,5 +520,20 @@ Since 2024.10.26
 |                          Name                          | Level | Stack |    Last    |    Next    | Related |
 | :----------------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) |  G1   |  ❌   | 2025-07-18 | 2025-07-28 |         |
+
+</details>
+
+### Union Find
+
+<details>
+  <summary>Programmers</summary>
+
+</details>
+<details>
+  <summary>BJ</summary>
+
+|                     Name                      | Level | Stack |    Last    |    Next    | Related |
+| :-------------------------------------------: | :---: | :---: | :--------: | :--------: | ------- |
+| [트리](https://www.acmicpc.net/problem/13306) |  P4   |  ❌   | 2025-11-18 | 2025-11-28 |         |
 
 </details>
