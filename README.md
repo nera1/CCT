@@ -232,6 +232,10 @@ Since 2024.10.26
 <details>
   <summary>BJ</summary>
 
+|                        Name                        | Level | Stack |    Last    | Next | Related                                                                 |
+| :------------------------------------------------: | :---: | :---: | :--------: | :--: | ----------------------------------------------------------------------- |
+| [히스토그램](https://www.acmicpc.net/problem/1725) |  P5   |  ❌   | 2025-11-24 |      | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |
+
 </details>
 
 ### Sweeping
@@ -489,6 +493,7 @@ Since 2024.10.26
 |  [최고의 팀 만들기](https://www.acmicpc.net/problem/1633)  |  G4   |   ❌   | 2025-10-23 | 2025-11-01 |                                                          |
 |       [유전자](https://www.acmicpc.net/problem/2306)       |  G3   |   ❌   | 2025-10-26 | 2025-11-05 |                                                          |
 |     [배수 공사](https://www.acmicpc.net/problem/15817)     |  G4   |   ☑️   | 2025-10-02 |            |                                                          |
+|     [크리보드](https://www.acmicpc.net/problem/11058)      |  G5   |   ❌   | 2025-11-25 | 2025-12-04 |                                                          |
 
 </details>
 
